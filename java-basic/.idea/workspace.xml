@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="db7f70f4-6720-4e9b-9fdd-1371fc111ae9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class1/ClassStart1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class1/ClassStart2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class1/ClassStart3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class1/ClassStart4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class1/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class1/ex/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class1/ex/AccountMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class1/ex/MovieReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class1/ex/MovieReviewMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class1/ex/ProductOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class1/ex/ProductOrderMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class1/radio/Radio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class1/ref/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class1/ref/AccountMethod1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class1/ref/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class1/ref/DataChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class1/ref/InitCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class1/ref/InitCatchMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class1/ref/MeChag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class1/ref/MeChag2.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2fSBplHBv8W4XDovNp7hs2MbziY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AccountMain.executor": "Run",
+    "Application.AccountMethod1.executor": "Run",
+    "Application.ClassStart1.executor": "Run",
+    "Application.ClassStart2.executor": "Run",
+    "Application.ClassStart3.executor": "Run",
+    "Application.ClassStart4.executor": "Run",
+    "Application.DataChange.executor": "Run",
+    "Application.InitCatchMain.executor": "Run",
+    "Application.MeChag.executor": "Run",
+    "Application.MeChag2.executor": "Run",
+    "Application.MovieReviewMain.executor": "Run",
+    "Application.ProductOrderMain.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/Users/jkky/Desktop/git/java_road/java-basic/src/Main.java",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db7f70f4-6720-4e9b-9fdd-1371fc111ae9" name="Changes" comment="" />
+      <created>1713784783898</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713784783898</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
