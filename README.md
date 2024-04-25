@@ -1,7 +1,7 @@
 # Java 개인 공부 공간입니다.
 
 ## [1. 김영한의 자바 입문 - 코드로 시작하는 자바 첫걸음](https://www.inflearn.com/course/김영한의-자바-입문)
-START : 2024/4/19
+START : 2024/4/19 End : 2024/4/22
 ### 2024/4/19
 * JAVA 환경 구성 - JAVA 17, InelliJ
 * 주석 처리법
@@ -12,12 +12,13 @@ START : 2024/4/19
 * 반복문(while, do-while, for, break, continue 중첩반복)
 * 스코프(변수 스코프, 스코프 존재이유)
 * 형변환(묵시적 형변환, 명시적 형변환)
-### 2024/4/22
 * 배열(배열 생성 과정, 배열의 참조 개념, 배열 리펙토링, 2차원 배열, 향상된 for문)
 * 메소드(메소드 생성 방식, void 및 반환 타입, 메서드 형변환, 오버로딩, 메서드 시그니처)
 * 리뷰링크 [완강 - 블로그 리뷰](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%9E%90%EB%B0%94-%EC%9E%85%EB%AC%B8-review)
 ---
 ## [2. 김영한의 실전 자바 - 기본편](https://www.inflearn.com/course/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EA%B8%B0%EB%B3%B8%ED%8E%B8)
 START : 2024/04/23
-* 클래스와 데이터(클래스 개념-(클래스,객체,인스턴스), 배열안의 클래스)
-* 
+* 클래스와 데이터(클래스 개념-(클래스,객체,인스턴스), 배열안의 클래스)[스터디 노트](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EA%B8%B0%EB%B3%B8%ED%8E%B8-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80-%EB%8D%B0%EC%9D%B4%ED%84%B0)
+* 기본형과 참조형(지역변수와 멤버변수의 초기화, nullPointerException, 참조형의 절대적 동작방식)[스터디 노트](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EA%B8%B0%EB%B3%B8%ED%8E%B8-%EA%B8%B0%EB%B3%B8%ED%98%95%EA%B3%BC-%EC%B0%B8%EC%A1%B0%ED%98%95)
+* 객체지향 프로그래밍(절차지향 프로그래밍, 절차지향에서 객체지향으로, 클래스 내부 메서드)[스터디 노트](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EA%B8%B0%EB%B3%B8%ED%8E%B8-%EC%A0%88%EC%B0%A8%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
+* 생성자(생성자 생성규칙, 생성자 생성시 제약조건, 기본생성자, 생성자 오버로딩, this() )[스터디 노트](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EA%B8%B0%EB%B3%B8%ED%8E%B8-%EC%83%9D%EC%84%B1%EC%9E%90)
