@@ -24,3 +24,4 @@ START : 2024/04/23
 * 생성자(생성자 생성규칙, 생성자 생성시 제약조건, 기본생성자, 생성자 오버로딩, this() )[스터디 노트](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EA%B8%B0%EB%B3%B8%ED%8E%B8-%EC%83%9D%EC%84%B1%EC%9E%90)
 * 패키지(import 문법, 패키지 이름 관례)[스터디 노트](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EA%B8%B0%EB%B3%B8%ED%8E%B8-%EC%A0%91%EA%B7%BC-%EC%A0%9C%EC%96%B4%EC%9E%90)
 * 접근제어자(접근 제어자 종류, 필드+메서드 접근제어자 활용, 클래스 레벨 활용, 캡슐화)[스터디 노트](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EA%B8%B0%EB%B3%B8%ED%8E%B8-%EC%A0%91%EA%B7%BC-%EC%A0%9C%EC%96%B4%EC%9E%90)
+* final(final개념, static final, 상수, 자바 상수 특징, 참조형 final)[스터디 노트](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EA%B8%B0%EB%B3%B8%ED%8E%B8-final)
