@@ -27,3 +27,4 @@ START : 2024/04/23
 * 상속(상속의 필요성, extends, 단일 상속, 상속시 메모리 구조, 오버라이딩, super)[스터디 노트](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EA%B8%B0%EB%B3%B8%ED%8E%B8-%EC%83%81%EC%86%8D)
 * 다형성1(다형적 참조, 다형적 참조시 메모리 구조, 다운 캐스팅, 업 캐스팅, 일시적 다운 캐스팅, 런타임오류 vs 컴파일오류, instanceof, 다형성에서 메서드 오버라이딩)[스터디노트](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EA%B8%B0%EB%B3%B8%ED%8E%B8-%EB%8B%A4%ED%98%95%EC%84%B11)
 * 다형성2(다형성 활용, 추상 클래스, 인터페이스, 다중 구현)[스터디 노트](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EA%B8%B0%EB%B3%B8%ED%8E%B8-%EB%8B%A4%ED%98%95%EC%84%B12)
+* 다형성과 설계(다형적 설계개념, OCP)[스터디 노트](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EA%B8%B0%EB%B3%B8%ED%8E%B8-%EB%8B%A4%ED%98%95%EC%84%B13)
