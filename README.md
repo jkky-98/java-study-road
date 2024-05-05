@@ -16,7 +16,7 @@ START : 2024/4/19 End : 2024/4/22
 * 리뷰링크 [완강 - 블로그 리뷰](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%9E%90%EB%B0%94-%EC%9E%85%EB%AC%B8-review)
 ---
 ## [2. 김영한의 실전 자바 - 기본편](https://www.inflearn.com/course/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EA%B8%B0%EB%B3%B8%ED%8E%B8)
-START : 2024/04/23 End : 2024/05/06
+START : 2024/04/23 End : 2024/05/06 [수료증](https://www.inflearn.com/certificate/453235-332506-12771569)
 * 클래스와 데이터(클래스 개념-(클래스,객체,인스턴스), 배열안의 클래스)[스터디 노트](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EA%B8%B0%EB%B3%B8%ED%8E%B8-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80-%EB%8D%B0%EC%9D%B4%ED%84%B0)
 * 기본형과 참조형(지역변수와 멤버변수의 초기화, nullPointerException, 참조형의 절대적 동작방식)[스터디 노트](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EA%B8%B0%EB%B3%B8%ED%8E%B8-%EA%B8%B0%EB%B3%B8%ED%98%95%EA%B3%BC-%EC%B0%B8%EC%A1%B0%ED%98%95)
 * 객체지향 프로그래밍(절차지향 프로그래밍, 절차지향에서 객체지향으로, 클래스 내부 메서드)[스터디 노트](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EA%B8%B0%EB%B3%B8%ED%8E%B8-%EC%A0%88%EC%B0%A8%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
