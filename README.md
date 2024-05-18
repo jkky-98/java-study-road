@@ -36,4 +36,4 @@ START : 2024/05/07
 * String Class(type of string, String Class, equals(), StringBuilder, String optimization, Method Channing)[study note](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EC%A4%91%EA%B8%89%ED%8E%B81-String)
 * Wrapper, Class(primitive 한계, wrapper class, auto-boxing, class class, system class, math, random class)[study note](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EC%A4%91%EA%B8%89%ED%8E%B81-Wrapper)
 * Enum (type 안전성, Enum class, Enum refactoring, private 생성자)[study note](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EC%A4%91%EA%B8%89%ED%8E%B81-ENUM)
-* java.time()
+* java.time(LocalDateTime, ZonedDateTime, Period/Duration, ChronoField/Unit, Instant)[study note](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EC%A4%91%EA%B8%89%ED%8E%B81-java.time)
