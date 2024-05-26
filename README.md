@@ -38,4 +38,4 @@ START : 2024/05/07
 * Enum (type 안전성, Enum class, Enum refactoring, private 생성자)[study note](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EC%A4%91%EA%B8%89%ED%8E%B81-ENUM)
 * java.time(LocalDateTime, ZonedDateTime, Period/Duration, ChronoField/Unit, Instant)[study note](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EC%A4%91%EA%B8%89%ED%8E%B81-java.time)
 * Nested, Inner Class(내부 static class, 내부 class)[study note](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EC%A4%91%EA%B8%89%ED%8E%B81-%EC%A4%91%EC%B2%A9-%EB%82%B4%EB%B6%80-%ED%81%B4%EB%9E%98%EC%8A%A4)
-*...
+* Local, Anonymous Class(local class, anonymous class, local capture)[study note](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EC%A4%91%EA%B8%89%ED%8E%B81-%EC%A4%91%EC%B2%A9-%EB%82%B4%EB%B6%80-%ED%81%B4%EB%9E%98%EC%8A%A42)
