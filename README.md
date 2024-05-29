@@ -30,7 +30,7 @@ START : 2024/04/23 End : 2024/05/06 [Certificates](https://www.inflearn.com/cert
 * 다형성과 설계(다형적 설계개념, OCP)[study note](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EA%B8%B0%EB%B3%B8%ED%8E%B8-%EB%8B%A4%ED%98%95%EC%84%B13)
 ---
 ## [3. 김영한의 실전 자바 - 중급 1편](https://www.inflearn.com/course/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EC%A4%91%EA%B8%89-1)
-START : 2024/05/07
+START : 2024/05/07 End : 2024/05/29 [Certificates](https://www.inflearn.com/certificate/453235-333308-12812888)
 * Object Class(java.lang, Object, Object polymorphism, Object Array, toString(), equals())[study note](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EC%A4%91%EA%B8%89%ED%8E%B81-Object-%ED%81%B4%EB%9E%98%EC%8A%A4)
 * Immutable object(공유 - 기본형과 참조형, 불변객체 설계, 불변객체 값 변경, withXxx())[study note](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EC%A4%91%EA%B8%89%ED%8E%B81-%EB%B6%88%EB%B3%80%EA%B0%9D%EC%B2%B4)
 * String Class(type of string, String Class, equals(), StringBuilder, String optimization, Method Channing)[study note](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EC%A4%91%EA%B8%89%ED%8E%B81-String)
@@ -40,3 +40,4 @@ START : 2024/05/07
 * Nested, Inner Class(내부 static class, 내부 class)[study note](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EC%A4%91%EA%B8%89%ED%8E%B81-%EC%A4%91%EC%B2%A9-%EB%82%B4%EB%B6%80-%ED%81%B4%EB%9E%98%EC%8A%A4)
 * Local, Anonymous Class(local class, anonymous class, local capture)[study note](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EC%A4%91%EA%B8%89%ED%8E%B81-%EC%A4%91%EC%B2%A9-%EB%82%B4%EB%B6%80-%ED%81%B4%EB%9E%98%EC%8A%A42)
 * exception theory( checked exception, unchecked exception, try, catch, throw, throws, exception class hierarchy)[study note](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EC%A4%91%EA%B8%89%ED%8E%B81-%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC-%EC%9D%B4%EB%A1%A0)
+* make use of exception ( finally, exception다형성, unchecked exception, most unchecked exceptions are, specific processing part, try-with-resources)[study_note](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EC%A4%91%EA%B8%89%ED%8E%B81-%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC-%EB%94%94%ED%85%8C%EC%9D%BC-%EC%8B%A4%EB%AC%B4)
