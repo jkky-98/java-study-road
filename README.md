@@ -42,4 +42,4 @@ START : 2024/05/07 End : 2024/05/29 [Certificates](https://www.inflearn.com/cert
 * exception theory( checked exception, unchecked exception, try, catch, throw, throws, exception class hierarchy)[study note](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EC%A4%91%EA%B8%89%ED%8E%B81-%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC-%EC%9D%B4%EB%A1%A0)
 * make use of exception(finally, exception다형성, unchecked exception, most unchecked exceptions are, specific processing part, try-with-resources)[study_note](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EC%A4%91%EA%B8%89%ED%8E%B81-%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC-%EB%94%94%ED%85%8C%EC%9D%BC-%EC%8B%A4%EB%AC%B4)
 * necessity of Generic(Trade-off between type safety and code reusability when not using generics, How to write generics, type inference )[study note](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EC%A4%91%EA%B8%89%ED%8E%B82-Generic%EC%9D%98-%ED%95%84%EC%9A%94%EC%9D%B4%EC%9C%A0)
-* grass test
+* grass test !!
