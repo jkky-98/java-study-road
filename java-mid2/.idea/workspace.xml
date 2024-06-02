@@ -5,27 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41751a68-e504-4db3-9802-349f16c59bab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/ex4/AnimalMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/ex4/ComplexBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/ex4/GenericMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/ex4/MethodMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/ex4/MethodMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/ex4/MethodMain3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/ex5/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/ex5/EraserBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/ex5/WildCardEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/ex5/WildCardMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/ex5/WildCardMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/test/ex3/ShuttleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/test/ex3/UnitPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/test/ex3/UnitPrinterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/test/ex3/UnitUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/test/ex3/UnitUtilTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/test/ex3/unit/BioUnit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/test/ex3/unit/Shuttle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/test/ex3/unit/Zealot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/test/ex3/unit/Zergling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/array/arrayMain1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +42,7 @@
     "Application.UnitPrinterTest.executor": "Run",
     "Application.UnitUtilTest.executor": "Run",
     "Application.WildCardMain1.executor": "Debug",
+    "Application.arrayMain1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -74,20 +55,7 @@
       <recent name="generic.ex3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.UnitPrinterTest">
-    <configuration name="MethodMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generic.ex4.MethodMain3" />
-      <module name="java-mid2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="generic.ex4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.arrayMain1">
     <configuration name="ShuttleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="generic.test.ex3.ShuttleTest" />
       <module name="java-mid2" />
@@ -140,13 +108,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="arrayMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.array.arrayMain1" />
+      <module name="java-mid2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collection.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.arrayMain1" />
         <item itemvalue="Application.UnitPrinterTest" />
         <item itemvalue="Application.ShuttleTest" />
         <item itemvalue="Application.UnitUtilTest" />
         <item itemvalue="Application.WildCardMain1" />
-        <item itemvalue="Application.MethodMain3" />
       </list>
     </recent_temporary>
   </component>
