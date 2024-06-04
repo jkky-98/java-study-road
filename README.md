@@ -44,3 +44,4 @@ START : 2024/05/07 End : 2024/05/29 [Certificates](https://www.inflearn.com/cert
 * necessity of Generic(Trade-off between type safety and code reusability when not using generics, How to write generics, type inference )[study note](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EC%A4%91%EA%B8%89%ED%8E%B82-Generic%EC%9D%98-%ED%95%84%EC%9A%94%EC%9D%B4%EC%9C%A0)
 * Generic(type restrictions-(extends,super), generic method, wildcard, type eraser)[study note](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EC%A4%91%EA%B8%89%ED%8E%B82-Generic2)
 * Collection-ArrayList(Array vs ArrayList, Big O, ArrayList with Generic)[study note](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EC%A4%91%EA%B8%89%ED%8E%B82-Collection-ArrayList)
+* LinkedList
