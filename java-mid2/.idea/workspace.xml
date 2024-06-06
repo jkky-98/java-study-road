@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41751a68-e504-4db3-9802-349f16c59bab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/collection/array/MyArrayListV3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/array/MyArrayListV3BadMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/array/MyArrayListV3Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/array/MyArrayListV4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/array/MyArrayListV4Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/link/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/link/NodeMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/link/MyLinkedListV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/link/MyLinkedListV1Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/link/MyLinkedListV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/link/MyLinkedListV2Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/link/MyLinkedListV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/link/NodeMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/link/NodeMain3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collection/array/MyArrayListV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/array/MyArrayListV2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/link/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/link/Node.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,11 @@
     "Application.MyArrayListV3BadMain.executor": "Run",
     "Application.MyArrayListV3Main.executor": "Run",
     "Application.MyArrayListV4Main.executor": "Run",
+    "Application.MyLinkedListV1Main.executor": "Run",
+    "Application.MyLinkedListV2Main.executor": "Debug",
     "Application.NodeMain1.executor": "Debug",
+    "Application.NodeMain2.executor": "Debug",
+    "Application.NodeMain3.executor": "Debug",
     "Application.ShuttleTest.executor": "Run",
     "Application.UnitPrinterTest.executor": "Run",
     "Application.UnitUtilTest.executor": "Run",
@@ -66,17 +70,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="collection.link" />
       <recent name="collection.array" />
       <recent name="generic.ex3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NodeMain1">
-    <configuration name="MyArrayListV2Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.array.MyArrayListV2Main" />
+  <component name="RunManager" selected="Application.MyLinkedListV3Main">
+    <configuration name="MyLinkedListV1Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.link.MyLinkedListV1Main" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.array.*" />
+          <option name="PATTERN" value="collection.link.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyArrayListV3BadMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.array.MyArrayListV3BadMain" />
+    <configuration name="MyLinkedListV2Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.link.MyLinkedListV2Main" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.array.*" />
+          <option name="PATTERN" value="collection.link.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyArrayListV3Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.array.MyArrayListV3Main" />
+    <configuration name="MyLinkedListV3Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.link.MyLinkedListV3Main" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.array.*" />
+          <option name="PATTERN" value="collection.link.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyArrayListV4Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.array.MyArrayListV4Main" />
+    <configuration name="NodeMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.link.NodeMain2" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.array.*" />
+          <option name="PATTERN" value="collection.link.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,8 +128,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NodeMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.link.NodeMain1" />
+    <configuration name="NodeMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.link.NodeMain3" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
@@ -138,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NodeMain1" />
-        <item itemvalue="Application.MyArrayListV4Main" />
-        <item itemvalue="Application.MyArrayListV3BadMain" />
-        <item itemvalue="Application.MyArrayListV3Main" />
-        <item itemvalue="Application.MyArrayListV2Main" />
+        <item itemvalue="Application.MyLinkedListV3Main" />
+        <item itemvalue="Application.MyLinkedListV2Main" />
+        <item itemvalue="Application.MyLinkedListV1Main" />
+        <item itemvalue="Application.NodeMain3" />
+        <item itemvalue="Application.NodeMain2" />
       </list>
     </recent_temporary>
   </component>
