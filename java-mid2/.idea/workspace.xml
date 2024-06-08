@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41751a68-e504-4db3-9802-349f16c59bab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/collection/link/MyLinkedListV1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/link/MyLinkedListV1Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/link/MyLinkedListV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/link/MyLinkedListV2Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/link/MyLinkedListV3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/link/NodeMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/link/NodeMain3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collection/link/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/link/Node.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +45,7 @@
     "Application.MyArrayListV4Main.executor": "Run",
     "Application.MyLinkedListV1Main.executor": "Run",
     "Application.MyLinkedListV2Main.executor": "Debug",
+    "Application.MyLinkedListV3Main.executor": "Run",
     "Application.NodeMain1.executor": "Debug",
     "Application.NodeMain2.executor": "Debug",
     "Application.NodeMain3.executor": "Debug",
