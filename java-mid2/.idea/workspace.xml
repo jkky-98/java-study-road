@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41751a68-e504-4db3-9802-349f16c59bab" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="41751a68-e504-4db3-9802-349f16c59bab" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,38 +27,38 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AnimalHospitalMainV0.executor": "Run",
-    "Application.AnimalHospitalMainV1.executor": "Debug",
-    "Application.AnimalHospitalMainV3.executor": "Run",
-    "Application.ArrayMain2.executor": "Run",
-    "Application.MethodMain1.executor": "Run",
-    "Application.MethodMain2.executor": "Run",
-    "Application.MethodMain3.executor": "Run",
-    "Application.MyArrayListV1Main.executor": "Run",
-    "Application.MyArrayListV2Main.executor": "Run",
-    "Application.MyArrayListV3BadMain.executor": "Run",
-    "Application.MyArrayListV3Main.executor": "Run",
-    "Application.MyArrayListV4Main.executor": "Run",
-    "Application.MyLinkedListV1Main.executor": "Run",
-    "Application.MyLinkedListV2Main.executor": "Debug",
-    "Application.MyLinkedListV3Main.executor": "Run",
-    "Application.NodeMain1.executor": "Debug",
-    "Application.NodeMain2.executor": "Debug",
-    "Application.NodeMain3.executor": "Debug",
-    "Application.ShuttleTest.executor": "Run",
-    "Application.UnitPrinterTest.executor": "Run",
-    "Application.UnitUtilTest.executor": "Run",
-    "Application.WildCardMain1.executor": "Debug",
-    "Application.arrayMain1.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/Users/jkky/Documents/private/java-study-road/java-mid2/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AnimalHospitalMainV0.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AnimalHospitalMainV1.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.AnimalHospitalMainV3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayMain2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodMain1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodMain2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodMain3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyArrayListV1Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyArrayListV2Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyArrayListV3BadMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyArrayListV3Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyArrayListV4Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyLinkedListV1Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyLinkedListV2Main.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.MyLinkedListV3Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NodeMain1.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.NodeMain2.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.NodeMain3.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ShuttleTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UnitPrinterTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UnitUtilTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WildCardMain1.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.arrayMain1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/jkky/Documents/private/java-study-road/java-mid2/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="collection.link" />
