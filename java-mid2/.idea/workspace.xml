@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41751a68-e504-4db3-9802-349f16c59bab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/collection/list/BatchProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/list/BatchProcessorMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/list/JavaListPerformanceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/list/MyArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/list/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/list/MyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/list/MyListPerformanceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/list/test/ex1/ArrayEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/list/test/ex1/ListEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/list/test/ex1/ListEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/list/test/ex2/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/list/test/ex2/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/list/test/ex2/ShoppingCartMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,9 +41,12 @@
     "Application.AnimalHospitalMainV0.executor": "Run",
     "Application.AnimalHospitalMainV1.executor": "Debug",
     "Application.AnimalHospitalMainV3.executor": "Run",
+    "Application.ArrayEx1.executor": "Debug",
     "Application.ArrayMain2.executor": "Run",
     "Application.BatchProcessorMain.executor": "Run",
     "Application.JavaListPerformanceTest.executor": "Run",
+    "Application.ListEx2.executor": "Run",
+    "Application.ListEx3.executor": "Debug",
     "Application.MethodMain1.executor": "Run",
     "Application.MethodMain2.executor": "Run",
     "Application.MethodMain3.executor": "Run",
@@ -60,6 +62,7 @@
     "Application.NodeMain1.executor": "Debug",
     "Application.NodeMain2.executor": "Debug",
     "Application.NodeMain3.executor": "Debug",
+    "Application.ShoppingCartMain.executor": "Run",
     "Application.ShuttleTest.executor": "Run",
     "Application.UnitPrinterTest.executor": "Run",
     "Application.UnitUtilTest.executor": "Run",
@@ -73,6 +76,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="collection.list.test.ex2" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="collection.list" />
       <recent name="collection.link" />
@@ -80,13 +86,13 @@
       <recent name="generic.ex3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JavaListPerformanceTest">
-    <configuration name="BatchProcessorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.list.BatchProcessorMain" />
+  <component name="RunManager" selected="Application.ShoppingCartMain">
+    <configuration name="ArrayEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.list.test.ex1.ArrayEx1" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.list.*" />
+          <option name="PATTERN" value="collection.list.test.ex1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyLinkedListV2Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.link.MyLinkedListV2Main" />
+    <configuration name="ListEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.list.test.ex1.ListEx2" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.link.*" />
+          <option name="PATTERN" value="collection.list.test.ex1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyLinkedListV3Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.link.MyLinkedListV3Main" />
+    <configuration name="ListEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.list.test.ex1.ListEx3" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.link.*" />
+          <option name="PATTERN" value="collection.list.test.ex1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyListPerformanceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.list.MyListPerformanceTest" />
+    <configuration name="ShoppingCartMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.list.test.ex2.ShoppingCartMain" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.list.*" />
+          <option name="PATTERN" value="collection.list.test.ex2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShoppingCartMain" />
+        <item itemvalue="Application.ListEx3" />
+        <item itemvalue="Application.ListEx2" />
+        <item itemvalue="Application.ArrayEx1" />
         <item itemvalue="Application.JavaListPerformanceTest" />
-        <item itemvalue="Application.MyListPerformanceTest" />
-        <item itemvalue="Application.BatchProcessorMain" />
-        <item itemvalue="Application.MyLinkedListV3Main" />
-        <item itemvalue="Application.MyLinkedListV2Main" />
       </list>
     </recent_temporary>
   </component>
