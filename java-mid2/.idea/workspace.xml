@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41751a68-e504-4db3-9802-349f16c59bab" name="Changes" comment="" />
+    <list default="true" id="41751a68-e504-4db3-9802-349f16c59bab" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/collection/list/BatchProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/list/BatchProcessorMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/list/JavaListPerformanceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/list/MyArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/list/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/list/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/list/MyListPerformanceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +22,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -27,52 +37,69 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AnimalHospitalMainV0.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AnimalHospitalMainV1.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.AnimalHospitalMainV3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayMain2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodMain1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodMain2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodMain3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyArrayListV1Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyArrayListV2Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyArrayListV3BadMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyArrayListV3Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyArrayListV4Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyLinkedListV1Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyLinkedListV2Main.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.MyLinkedListV3Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NodeMain1.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.NodeMain2.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.NodeMain3.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.ShuttleTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UnitPrinterTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UnitUtilTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WildCardMain1.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.arrayMain1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/jkky/Documents/private/java-study-road/java-mid2/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AnimalHospitalMainV0.executor": "Run",
+    "Application.AnimalHospitalMainV1.executor": "Debug",
+    "Application.AnimalHospitalMainV3.executor": "Run",
+    "Application.ArrayMain2.executor": "Run",
+    "Application.BatchProcessorMain.executor": "Run",
+    "Application.JavaListPerformanceTest.executor": "Run",
+    "Application.MethodMain1.executor": "Run",
+    "Application.MethodMain2.executor": "Run",
+    "Application.MethodMain3.executor": "Run",
+    "Application.MyArrayListV1Main.executor": "Run",
+    "Application.MyArrayListV2Main.executor": "Run",
+    "Application.MyArrayListV3BadMain.executor": "Run",
+    "Application.MyArrayListV3Main.executor": "Run",
+    "Application.MyArrayListV4Main.executor": "Run",
+    "Application.MyLinkedListV1Main.executor": "Run",
+    "Application.MyLinkedListV2Main.executor": "Debug",
+    "Application.MyLinkedListV3Main.executor": "Debug",
+    "Application.MyListPerformanceTest.executor": "Run",
+    "Application.NodeMain1.executor": "Debug",
+    "Application.NodeMain2.executor": "Debug",
+    "Application.NodeMain3.executor": "Debug",
+    "Application.ShuttleTest.executor": "Run",
+    "Application.UnitPrinterTest.executor": "Run",
+    "Application.UnitUtilTest.executor": "Run",
+    "Application.WildCardMain1.executor": "Debug",
+    "Application.arrayMain1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/Users/jkky/Documents/private/java-study-road/java-mid2/src/Main.java"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="collection.list" />
       <recent name="collection.link" />
       <recent name="collection.array" />
       <recent name="generic.ex3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyLinkedListV3Main">
-    <configuration name="MyLinkedListV1Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.link.MyLinkedListV1Main" />
+  <component name="RunManager" selected="Application.JavaListPerformanceTest">
+    <configuration name="BatchProcessorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.list.BatchProcessorMain" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.link.*" />
+          <option name="PATTERN" value="collection.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaListPerformanceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.list.JavaListPerformanceTest" />
+      <module name="java-mid2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collection.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,25 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NodeMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.link.NodeMain2" />
+    <configuration name="MyListPerformanceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.list.MyListPerformanceTest" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.link.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NodeMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.link.NodeMain3" />
-      <module name="java-mid2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collection.link.*" />
+          <option name="PATTERN" value="collection.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaListPerformanceTest" />
+        <item itemvalue="Application.MyListPerformanceTest" />
+        <item itemvalue="Application.BatchProcessorMain" />
         <item itemvalue="Application.MyLinkedListV3Main" />
         <item itemvalue="Application.MyLinkedListV2Main" />
-        <item itemvalue="Application.MyLinkedListV1Main" />
-        <item itemvalue="Application.NodeMain3" />
-        <item itemvalue="Application.NodeMain2" />
       </list>
     </recent_temporary>
   </component>
