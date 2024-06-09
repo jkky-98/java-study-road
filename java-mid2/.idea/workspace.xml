@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41751a68-e504-4db3-9802-349f16c59bab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/collection/list/test/ex1/ArrayEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/list/test/ex1/ListEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/list/test/ex1/ListEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/list/test/ex2/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/list/test/ex2/ShoppingCart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/list/test/ex2/ShoppingCartMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/set/HashStart1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/set/HashStart2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/set/HashStart3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/set/HashStart4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/set/HashStart5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/set/MyHashSerV0Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/set/MyHashSetV0.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +45,11 @@
     "Application.ArrayEx1.executor": "Debug",
     "Application.ArrayMain2.executor": "Run",
     "Application.BatchProcessorMain.executor": "Run",
+    "Application.HashStart1.executor": "Run",
+    "Application.HashStart2.executor": "Run",
+    "Application.HashStart3.executor": "Run",
+    "Application.HashStart4.executor": "Run",
+    "Application.HashStart5.executor": "Run",
     "Application.JavaListPerformanceTest.executor": "Run",
     "Application.ListEx2.executor": "Run",
     "Application.ListEx3.executor": "Debug",
@@ -55,6 +61,7 @@
     "Application.MyArrayListV3BadMain.executor": "Run",
     "Application.MyArrayListV3Main.executor": "Run",
     "Application.MyArrayListV4Main.executor": "Run",
+    "Application.MyHashSerV0Main.executor": "Run",
     "Application.MyLinkedListV1Main.executor": "Run",
     "Application.MyLinkedListV2Main.executor": "Debug",
     "Application.MyLinkedListV3Main.executor": "Debug",
@@ -80,19 +87,20 @@
       <recent name="collection.list.test.ex2" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="collection.set" />
       <recent name="collection.list" />
       <recent name="collection.link" />
       <recent name="collection.array" />
       <recent name="generic.ex3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ShoppingCartMain">
-    <configuration name="ArrayEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.list.test.ex1.ArrayEx1" />
+  <component name="RunManager" selected="Application.HashStart5">
+    <configuration name="HashStart1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.set.HashStart1" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.list.test.ex1.*" />
+          <option name="PATTERN" value="collection.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaListPerformanceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.list.JavaListPerformanceTest" />
+    <configuration name="HashStart2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.set.HashStart2" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.list.*" />
+          <option name="PATTERN" value="collection.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.list.test.ex1.ListEx2" />
+    <configuration name="HashStart3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.set.HashStart3" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.list.test.ex1.*" />
+          <option name="PATTERN" value="collection.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.list.test.ex1.ListEx3" />
+    <configuration name="HashStart4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.set.HashStart4" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.list.test.ex1.*" />
+          <option name="PATTERN" value="collection.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShoppingCartMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.list.test.ex2.ShoppingCartMain" />
+    <configuration name="HashStart5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.set.HashStart5" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.list.test.ex2.*" />
+          <option name="PATTERN" value="collection.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ShoppingCartMain" />
-        <item itemvalue="Application.ListEx3" />
-        <item itemvalue="Application.ListEx2" />
-        <item itemvalue="Application.ArrayEx1" />
-        <item itemvalue="Application.JavaListPerformanceTest" />
+        <item itemvalue="Application.HashStart5" />
+        <item itemvalue="Application.HashStart4" />
+        <item itemvalue="Application.HashStart3" />
+        <item itemvalue="Application.HashStart2" />
+        <item itemvalue="Application.HashStart1" />
       </list>
     </recent_temporary>
   </component>
@@ -186,6 +194,11 @@
           <line>6</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/collection/set/HashStart3.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/generic/test/ex3/UnitUtilTest.java</url>
           <line>7</line>
@@ -212,6 +225,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/collection/set/HashStart4.java</url>
+          <line>11</line>
+          <properties class="collection.set.HashStart4" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
