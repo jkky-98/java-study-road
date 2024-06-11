@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41751a68-e504-4db3-9802-349f16c59bab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/collection/set/JavaHashCodeMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/set/MyHashSetV1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/set/MyHashSetV1Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/set/MyHashSetV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/set/MyHashSetV2Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/set/StringHashMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/set/member/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/set/MyHashSetV2Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/set/MyHashSetV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/set/MyHashSetV3Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/set/MySet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,6 +62,7 @@
     "Application.MyHashSerV0Main.executor": "Run",
     "Application.MyHashSetV1Main.executor": "Run",
     "Application.MyHashSetV2Main.executor": "Run",
+    "Application.MyHashSetV2Main2.executor": "Run",
     "Application.MyLinkedListV1Main.executor": "Run",
     "Application.MyLinkedListV2Main.executor": "Debug",
     "Application.MyLinkedListV3Main.executor": "Debug",
@@ -98,20 +96,7 @@
       <recent name="generic.ex3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyHashSetV2Main">
-    <configuration name="HashStart5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.set.HashStart5" />
-      <module name="java-mid2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collection.set.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MyHashSetV3Main">
     <configuration name="JavaHashCodeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collection.set.JavaHashCodeMain" />
       <module name="java-mid2" />
@@ -125,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyHashSetV1Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.set.MyHashSetV1Main" />
+    <configuration name="MyHashSetV2Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.set.MyHashSetV2Main" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
@@ -138,8 +123,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyHashSetV2Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.set.MyHashSetV2Main" />
+    <configuration name="MyHashSetV2Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.set.MyHashSetV2Main2" />
+      <module name="java-mid2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collection.set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyHashSetV3Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.set.MyHashSetV3Main" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
@@ -166,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyHashSetV3Main" />
+        <item itemvalue="Application.MyHashSetV2Main2" />
         <item itemvalue="Application.MyHashSetV2Main" />
         <item itemvalue="Application.JavaHashCodeMain" />
         <item itemvalue="Application.StringHashMain" />
-        <item itemvalue="Application.MyHashSetV1Main" />
-        <item itemvalue="Application.HashStart5" />
       </list>
     </recent_temporary>
   </component>
