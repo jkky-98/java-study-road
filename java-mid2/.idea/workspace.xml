@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41751a68-e504-4db3-9802-349f16c59bab" name="Changes" comment="" />
+    <list default="true" id="41751a68-e504-4db3-9802-349f16c59bab" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/collection/map/JavaMapMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/map/MapMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/map/MapMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/map/MapMain3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +52,9 @@
     "Application.JavaSetMain.executor": "Run",
     "Application.ListEx2.executor": "Run",
     "Application.ListEx3.executor": "Debug",
+    "Application.MapMain1.executor": "Run",
+    "Application.MapMain2.executor": "Debug",
+    "Application.MapMain3.executor": "Debug",
     "Application.MethodMain1.executor": "Run",
     "Application.MethodMain2.executor": "Run",
     "Application.MethodMain3.executor": "Run",
@@ -90,14 +99,66 @@
       <recent name="collection.list.test.ex2" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="collection.map" />
       <recent name="collection.set" />
       <recent name="collection.list" />
       <recent name="collection.link" />
       <recent name="collection.array" />
-      <recent name="generic.ex3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RectangleTest">
+  <component name="RunManager" selected="Application.JavaMapMain">
+    <configuration name="JavaMapMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.map.JavaMapMain" />
+      <module name="java-mid2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collection.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.map.MapMain1" />
+      <module name="java-mid2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collection.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.map.MapMain2" />
+      <module name="java-mid2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collection.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.map.MapMain3" />
+      <module name="java-mid2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collection.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RectangleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collection.set.test.RectangleTest" />
       <module name="java-mid2" />
@@ -111,65 +172,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetOperationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.set.test.SetOperationTest" />
-      <module name="java-mid2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collection.set.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UniqueNamesTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.set.test.UniqueNamesTest1" />
-      <module name="java-mid2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collection.set.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UniqueNamesTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.set.test.UniqueNamesTest2" />
-      <module name="java-mid2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collection.set.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UniqueNamesTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.set.test.UniqueNamesTest3" />
-      <module name="java-mid2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collection.set.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaMapMain" />
+        <item itemvalue="Application.MapMain3" />
+        <item itemvalue="Application.MapMain2" />
+        <item itemvalue="Application.MapMain1" />
         <item itemvalue="Application.RectangleTest" />
-        <item itemvalue="Application.SetOperationTest" />
-        <item itemvalue="Application.UniqueNamesTest3" />
-        <item itemvalue="Application.UniqueNamesTest2" />
-        <item itemvalue="Application.UniqueNamesTest1" />
       </list>
     </recent_temporary>
   </component>
@@ -255,6 +264,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/collection/map/MapMain1.java</url>
+          <line>8</line>
+          <properties class="collection.map.MapMain1" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
