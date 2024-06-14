@@ -5,10 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41751a68-e504-4db3-9802-349f16c59bab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/collection/map/JavaMapMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/map/MapMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/map/MapMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/map/MapMain3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/deque/DequeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/deque/DequeQueueMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/deque/DequeStackMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/deque/QueueMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/deque/StackMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/deque/test/BackupTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/deque/test/BrowserHistory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/deque/test/BrowserHistoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/deque/test/CleanTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/deque/test/CompressionTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/deque/test/PrinterQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/deque/test/SchedulerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/deque/test/SimpleHistoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/deque/test/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/deque/test/TaskScheduler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/map/test/ArrayToMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/map/test/CommonKeyValueSum1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/map/test/CommonKeyValueSum1Other.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/map/test/DictionaryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/map/test/ItemPriceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/map/test/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/map/test/MemberRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/map/test/MemberRepositoryMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/map/test/WordFrequencyTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/map/test/WordFrequencyTest1Other.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/map/test/cart/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/map/test/cart/CartMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/map/test/cart/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,20 +65,32 @@
     "Application.AnimalHospitalMainV3.executor": "Run",
     "Application.ArrayEx1.executor": "Debug",
     "Application.ArrayMain2.executor": "Run",
+    "Application.ArrayToMapTest.executor": "Run",
     "Application.BatchProcessorMain.executor": "Run",
+    "Application.BrowserHistoryTest.executor": "Run",
+    "Application.CartMain.executor": "Run",
+    "Application.CommonKeyValueSum1.executor": "Run",
+    "Application.CommonKeyValueSum1Other.executor": "Run",
+    "Application.DequeMain.executor": "Run",
+    "Application.DequeQueueMain.executor": "Run",
+    "Application.DequeStackMain.executor": "Run",
+    "Application.DictionaryTest.executor": "Run",
     "Application.HashStart1.executor": "Run",
     "Application.HashStart2.executor": "Run",
     "Application.HashStart3.executor": "Run",
     "Application.HashStart4.executor": "Run",
     "Application.HashStart5.executor": "Run",
+    "Application.ItemPriceTest.executor": "Run",
     "Application.JavaHashCodeMain.executor": "Run",
     "Application.JavaListPerformanceTest.executor": "Run",
+    "Application.JavaMapMain.executor": "Debug",
     "Application.JavaSetMain.executor": "Run",
     "Application.ListEx2.executor": "Run",
     "Application.ListEx3.executor": "Debug",
     "Application.MapMain1.executor": "Run",
     "Application.MapMain2.executor": "Debug",
     "Application.MapMain3.executor": "Debug",
+    "Application.MemberRepositoryMain.executor": "Run",
     "Application.MethodMain1.executor": "Run",
     "Application.MethodMain2.executor": "Run",
     "Application.MethodMain3.executor": "Run",
@@ -75,10 +111,15 @@
     "Application.NodeMain1.executor": "Debug",
     "Application.NodeMain2.executor": "Debug",
     "Application.NodeMain3.executor": "Debug",
+    "Application.PrinterQueueTest.executor": "Run",
+    "Application.QueueMain.executor": "Run",
     "Application.RectangleTest.executor": "Run",
+    "Application.SchedulerTest.executor": "Run",
     "Application.SetOperationTest.executor": "Run",
     "Application.ShoppingCartMain.executor": "Run",
     "Application.ShuttleTest.executor": "Run",
+    "Application.SimpleHistoryTest.executor": "Run",
+    "Application.StackMain.executor": "Run",
     "Application.StringHashMain.executor": "Run",
     "Application.UniqueNamesTest1.executor": "Run",
     "Application.UniqueNamesTest2.executor": "Run",
@@ -86,6 +127,8 @@
     "Application.UnitPrinterTest.executor": "Run",
     "Application.UnitUtilTest.executor": "Run",
     "Application.WildCardMain1.executor": "Debug",
+    "Application.WordFrequencyTest1.executor": "Run",
+    "Application.WordFrequencyTest1Other.executor": "Run",
     "Application.arrayMain1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -99,20 +142,20 @@
       <recent name="collection.list.test.ex2" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="collection.map.test" />
       <recent name="collection.map" />
       <recent name="collection.set" />
       <recent name="collection.list" />
       <recent name="collection.link" />
-      <recent name="collection.array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JavaMapMain">
-    <configuration name="JavaMapMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.map.JavaMapMain" />
+  <component name="RunManager" selected="Application.SchedulerTest">
+    <configuration name="BrowserHistoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.deque.test.BrowserHistoryTest" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.map.*" />
+          <option name="PATTERN" value="collection.deque.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.map.MapMain1" />
+    <configuration name="CartMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.map.test.cart.CartMain" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.map.*" />
+          <option name="PATTERN" value="collection.map.test.cart.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +176,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.map.MapMain2" />
+    <configuration name="PrinterQueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.deque.test.PrinterQueueTest" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.map.*" />
+          <option name="PATTERN" value="collection.deque.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +189,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.map.MapMain3" />
+    <configuration name="SchedulerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.deque.test.SchedulerTest" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.map.*" />
+          <option name="PATTERN" value="collection.deque.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,12 +202,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RectangleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.set.test.RectangleTest" />
+    <configuration name="SimpleHistoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.deque.test.SimpleHistoryTest" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.set.test.*" />
+          <option name="PATTERN" value="collection.deque.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,11 +217,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JavaMapMain" />
-        <item itemvalue="Application.MapMain3" />
-        <item itemvalue="Application.MapMain2" />
-        <item itemvalue="Application.MapMain1" />
-        <item itemvalue="Application.RectangleTest" />
+        <item itemvalue="Application.SchedulerTest" />
+        <item itemvalue="Application.PrinterQueueTest" />
+        <item itemvalue="Application.BrowserHistoryTest" />
+        <item itemvalue="Application.SimpleHistoryTest" />
+        <item itemvalue="Application.CartMain" />
       </list>
     </recent_temporary>
   </component>
