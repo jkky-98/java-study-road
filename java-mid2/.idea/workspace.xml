@@ -4,37 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41751a68-e504-4db3-9802-349f16c59bab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/collection/deque/DequeMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/deque/DequeQueueMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/deque/DequeStackMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/deque/QueueMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/deque/StackMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/deque/test/BackupTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/deque/test/BrowserHistory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/deque/test/BrowserHistoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/deque/test/CleanTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/deque/test/CompressionTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/deque/test/PrinterQueueTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/deque/test/SchedulerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/deque/test/SimpleHistoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/deque/test/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/deque/test/TaskScheduler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/map/test/ArrayToMapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/map/test/CommonKeyValueSum1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/map/test/CommonKeyValueSum1Other.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/map/test/DictionaryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/map/test/ItemPriceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/map/test/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/map/test/MemberRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/map/test/MemberRepositoryMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/map/test/WordFrequencyTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/map/test/WordFrequencyTest1Other.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/map/test/cart/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/map/test/cart/CartMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/map/test/cart/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="41751a68-e504-4db3-9802-349f16c59bab" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
