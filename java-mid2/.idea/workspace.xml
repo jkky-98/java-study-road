@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41751a68-e504-4db3-9802-349f16c59bab" name="Changes" comment="" />
+    <list default="true" id="41751a68-e504-4db3-9802-349f16c59bab" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/collection/Iterable/JavaIterableMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/Iterable/MyArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/Iterable/MyArrayIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/Iterable/MyArrayMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/compare/IdComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/compare/MyUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/compare/SortMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/compare/SortMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/compare/SortMain3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +63,7 @@
     "Application.HashStart5.executor": "Run",
     "Application.ItemPriceTest.executor": "Run",
     "Application.JavaHashCodeMain.executor": "Run",
+    "Application.JavaIterableMain.executor": "Run",
     "Application.JavaListPerformanceTest.executor": "Run",
     "Application.JavaMapMain.executor": "Debug",
     "Application.JavaSetMain.executor": "Run",
@@ -69,6 +81,7 @@
     "Application.MyArrayListV3BadMain.executor": "Run",
     "Application.MyArrayListV3Main.executor": "Run",
     "Application.MyArrayListV4Main.executor": "Run",
+    "Application.MyArrayMain.executor": "Debug",
     "Application.MyHashSerV0Main.executor": "Run",
     "Application.MyHashSetV1Main.executor": "Run",
     "Application.MyHashSetV2Main.executor": "Run",
@@ -89,6 +102,9 @@
     "Application.ShoppingCartMain.executor": "Run",
     "Application.ShuttleTest.executor": "Run",
     "Application.SimpleHistoryTest.executor": "Run",
+    "Application.SortMain1.executor": "Run",
+    "Application.SortMain2.executor": "Run",
+    "Application.SortMain3.executor": "Run",
     "Application.StackMain.executor": "Run",
     "Application.StringHashMain.executor": "Run",
     "Application.UniqueNamesTest1.executor": "Run",
@@ -104,7 +120,8 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/Users/jkky/Documents/private/java-study-road/java-mid2/src/Main.java"
+    "onboarding.tips.debug.path": "/Users/jkky/Documents/private/java-study-road/java-mid2/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -112,20 +129,20 @@
       <recent name="collection.list.test.ex2" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="collection.compare" />
       <recent name="collection.map.test" />
       <recent name="collection.map" />
       <recent name="collection.set" />
       <recent name="collection.list" />
-      <recent name="collection.link" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SchedulerTest">
-    <configuration name="BrowserHistoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.deque.test.BrowserHistoryTest" />
+  <component name="RunManager" selected="Application.SortMain3">
+    <configuration name="JavaIterableMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.Iterable.JavaIterableMain" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.deque.test.*" />
+          <option name="PATTERN" value="collection.Iterable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CartMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.map.test.cart.CartMain" />
+    <configuration name="MyArrayMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.Iterable.MyArrayMain" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.map.test.cart.*" />
+          <option name="PATTERN" value="collection.Iterable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrinterQueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.deque.test.PrinterQueueTest" />
+    <configuration name="SortMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.compare.SortMain1" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.deque.test.*" />
+          <option name="PATTERN" value="collection.compare.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,12 +176,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SchedulerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.deque.test.SchedulerTest" />
+    <configuration name="SortMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.compare.SortMain2" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.deque.test.*" />
+          <option name="PATTERN" value="collection.compare.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,12 +189,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleHistoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.deque.test.SimpleHistoryTest" />
+    <configuration name="SortMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.compare.SortMain3" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.deque.test.*" />
+          <option name="PATTERN" value="collection.compare.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SchedulerTest" />
-        <item itemvalue="Application.PrinterQueueTest" />
-        <item itemvalue="Application.BrowserHistoryTest" />
-        <item itemvalue="Application.SimpleHistoryTest" />
-        <item itemvalue="Application.CartMain" />
+        <item itemvalue="Application.SortMain3" />
+        <item itemvalue="Application.SortMain2" />
+        <item itemvalue="Application.SortMain1" />
+        <item itemvalue="Application.JavaIterableMain" />
+        <item itemvalue="Application.MyArrayMain" />
       </list>
     </recent_temporary>
   </component>
