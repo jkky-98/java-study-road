@@ -5,15 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41751a68-e504-4db3-9802-349f16c59bab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/collection/Iterable/JavaIterableMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/Iterable/MyArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/Iterable/MyArrayIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/Iterable/MyArrayMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/compare/IdComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/compare/MyUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/compare/SortMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/compare/SortMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/compare/SortMain3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/compare/SortMain4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/compare/SortMain5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/compare/test/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/compare/test/CardComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/compare/test/CardDeck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/compare/test/PlayMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/compare/test/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/utils/CollectionsSortMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/utils/EmptyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/utils/ImmutableMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/utils/SyncMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/utils/ofMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,17 +53,20 @@
     "Application.BatchProcessorMain.executor": "Run",
     "Application.BrowserHistoryTest.executor": "Run",
     "Application.CartMain.executor": "Run",
+    "Application.CollectionsSortMain.executor": "Run",
     "Application.CommonKeyValueSum1.executor": "Run",
     "Application.CommonKeyValueSum1Other.executor": "Run",
     "Application.DequeMain.executor": "Run",
     "Application.DequeQueueMain.executor": "Run",
     "Application.DequeStackMain.executor": "Run",
     "Application.DictionaryTest.executor": "Run",
+    "Application.EmptyList.executor": "Debug",
     "Application.HashStart1.executor": "Run",
     "Application.HashStart2.executor": "Run",
     "Application.HashStart3.executor": "Run",
     "Application.HashStart4.executor": "Run",
     "Application.HashStart5.executor": "Run",
+    "Application.ImmutableMain.executor": "Run",
     "Application.ItemPriceTest.executor": "Run",
     "Application.JavaHashCodeMain.executor": "Run",
     "Application.JavaIterableMain.executor": "Run",
@@ -94,6 +100,7 @@
     "Application.NodeMain1.executor": "Debug",
     "Application.NodeMain2.executor": "Debug",
     "Application.NodeMain3.executor": "Debug",
+    "Application.PlayMain.executor": "Run",
     "Application.PrinterQueueTest.executor": "Run",
     "Application.QueueMain.executor": "Run",
     "Application.RectangleTest.executor": "Run",
@@ -104,9 +111,12 @@
     "Application.SimpleHistoryTest.executor": "Run",
     "Application.SortMain1.executor": "Run",
     "Application.SortMain2.executor": "Run",
-    "Application.SortMain3.executor": "Run",
+    "Application.SortMain3.executor": "Debug",
+    "Application.SortMain4.executor": "Debug",
+    "Application.SortMain5.executor": "Run",
     "Application.StackMain.executor": "Run",
     "Application.StringHashMain.executor": "Run",
+    "Application.SyncMain.executor": "Run",
     "Application.UniqueNamesTest1.executor": "Run",
     "Application.UniqueNamesTest2.executor": "Run",
     "Application.UniqueNamesTest3.executor": "Run",
@@ -116,6 +126,7 @@
     "Application.WordFrequencyTest1.executor": "Run",
     "Application.WordFrequencyTest1Other.executor": "Run",
     "Application.arrayMain1.executor": "Run",
+    "Application.ofMain.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -136,13 +147,13 @@
       <recent name="collection.list" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SortMain3">
-    <configuration name="JavaIterableMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.Iterable.JavaIterableMain" />
+  <component name="RunManager" selected="Application.PlayMain">
+    <configuration name="EmptyList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.utils.EmptyList" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.Iterable.*" />
+          <option name="PATTERN" value="collection.utils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyArrayMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.Iterable.MyArrayMain" />
+    <configuration name="ImmutableMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.utils.ImmutableMain" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.Iterable.*" />
+          <option name="PATTERN" value="collection.utils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,12 +174,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.compare.SortMain1" />
+    <configuration name="PlayMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.compare.test.PlayMain" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.compare.*" />
+          <option name="PATTERN" value="collection.compare.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,12 +187,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.compare.SortMain2" />
+    <configuration name="SyncMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.utils.SyncMain" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.compare.*" />
+          <option name="PATTERN" value="collection.utils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,12 +200,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.compare.SortMain3" />
+    <configuration name="ofMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.utils.ofMain" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.compare.*" />
+          <option name="PATTERN" value="collection.utils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,11 +215,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SortMain3" />
-        <item itemvalue="Application.SortMain2" />
-        <item itemvalue="Application.SortMain1" />
-        <item itemvalue="Application.JavaIterableMain" />
-        <item itemvalue="Application.MyArrayMain" />
+        <item itemvalue="Application.PlayMain" />
+        <item itemvalue="Application.SyncMain" />
+        <item itemvalue="Application.EmptyList" />
+        <item itemvalue="Application.ImmutableMain" />
+        <item itemvalue="Application.ofMain" />
       </list>
     </recent_temporary>
   </component>
@@ -303,6 +314,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/collection/utils/SyncMain.java</url>
+          <line>8</line>
+          <properties class="collection.utils.SyncMain" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
