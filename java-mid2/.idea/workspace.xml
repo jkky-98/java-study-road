@@ -5,18 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41751a68-e504-4db3-9802-349f16c59bab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/collection/compare/SortMain4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/compare/SortMain5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/compare/test/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/compare/test/CardComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/compare/test/CardDeck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/compare/test/PlayMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/compare/test/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/utils/CollectionsSortMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/utils/EmptyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/utils/ImmutableMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/utils/SyncMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/utils/ofMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
