@@ -56,3 +56,4 @@ START : 2024/06/01 End : 2024/06/17 [Certificates](https://www.inflearn.com/cert
 ## [5. 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8/)
 START : 2024/06/18 End : 
 * Setting Spring Boot, web develop basic(MVC, Template Engine, static contents, API, Controller, Tomcat)[study note](https://velog.io/@aal2525/Spring-Start-1)
+* Membership management example, TestCase(Junit, Assertions, BeforeEach, AfterEach)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%BD%94%EB%93%9C%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%EC%9B%B9-MVC-DB-%EC%A0%91%EA%B7%BC-%EA%B8%B0%EC%88%A0-%ED%9A%8C%EC%9B%90-%EA%B4%80%EB%A6%AC-%EC%98%88%EC%A0%9C)
