@@ -54,8 +54,11 @@ START : 2024/06/01 End : 2024/06/17 [Certificates](https://www.inflearn.com/cert
 * Collection Map, Deque(Map concept, Map-key equals with Set, Queue, Stack with Deque, Generic is Invariant)[study note](https://velog.io/@aal2525/hfe76r5f)
 * Collection Iterable, Comparable(Iterable, Iterator, Comparable, Comparator, Xxx.of, Collection utils)[study note](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EC%A4%91%EA%B8%89%ED%8E%B82-Iterable-Comparable)
 ## [5. 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8/)
-START : 2024/06/18 End : 
+START : 2024/06/18 End : 2024/06/21
 * Setting Spring Boot, web develop basic(MVC, Template Engine, static contents, API, Controller, Tomcat)[study note](https://velog.io/@aal2525/Spring-Start-1)
 * Membership management example, TestCase(Junit, Assertions, BeforeEach, AfterEach)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%BD%94%EB%93%9C%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%EC%9B%B9-MVC-DB-%EC%A0%91%EA%B7%BC-%EA%B8%B0%EC%88%A0-%ED%9A%8C%EC%9B%90-%EA%B4%80%EB%A6%AC-%EC%98%88%EC%A0%9C)
 * SpringBean(ComponentScan, @Configuration, DI, Autowired)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%BD%94%EB%93%9C%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%EC%9B%B9-MVC-DB-%EC%A0%91%EA%B7%BC-%EA%B8%B0%EC%88%A0-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B9%88-%EC%9D%98%EC%A1%B4%EA%B4%80%EA%B3%84)
 * DB Connection(easy jdbc, jdbctemplate, jpa, spring data jpa, AOP)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%BD%94%EB%93%9C%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%EC%9B%B9-MVC-DB-%EC%A0%91%EA%B7%BC-%EA%B8%B0%EC%88%A0-Jdbc-JPA-AOP)
+## [6. 스프링 핵심 원리 - 기본편](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8/)
+START : 2024/06/22
+* Spring OutLine(EJB to Spring, SOLID, polymorphism)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8-Spring%EC%9D%98-%EB%B0%B0%EA%B2%BD)
