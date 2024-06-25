@@ -62,3 +62,5 @@ START : 2024/06/18 End : 2024/06/21
 ## [6. 스프링 핵심 원리 - 기본편](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8/)
 START : 2024/06/22
 * Spring OutLine(EJB to Spring, SOLID, polymorphism)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8-Spring%EC%9D%98-%EB%B0%B0%EA%B2%BD)
+* Spring create example (Member order management example without spring)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8-%EC%98%88%EC%A0%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+* Spring DI Container (AppConfig, @Configuration, @Bean, DI Container)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8-%EA%B4%80%EC%8B%AC%EC%82%AC%EC%9D%98-%EB%B6%84%EB%A6%AC)
