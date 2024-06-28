@@ -16,7 +16,8 @@ class StatefulServiceTest {
         StatefulService statefulService1 = ac.getBean(StatefulService.class);
         StatefulService statefulService2 = ac.getBean(StatefulService.class);
 
-
+        System.out.println("statefulService1.getClass() = " + statefulService1);
+        System.out.println("statefulService2.getClass() = " + statefulService2);
         statefulService1.order("userA", 10000);
         statefulService1.order("userB", 20000);
 

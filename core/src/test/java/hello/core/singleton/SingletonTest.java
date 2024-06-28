@@ -49,13 +49,8 @@ public class SingletonTest {
     void springContainer() {
         AnnotationConfigApplicationContext ac = new AnnotationConfigApplicationContext(AppConfig.class);
 
-
-        //1. 조회
         MemberService memberService1 = ac.getBean("memberService", MemberService.class);
         MemberService memberService2 = ac.getBean("memberService", MemberService.class);
-
-        // 객체 총 4개 생성 됨.
-        // 고객 트래픽이 초당 1000이 나오면 초당 2000개 객체가 생성되고 소멸된다 -> 메모리 낭비 매우 심해짐.
 
         System.out.println("memberService1 = " + memberService1);
         System.out.println("memberService2 = " + memberService2);
