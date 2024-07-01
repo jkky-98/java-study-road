@@ -60,7 +60,7 @@ START : 2024/06/18 End : 2024/06/21
 * SpringBean(ComponentScan, @Configuration, DI, Autowired)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%BD%94%EB%93%9C%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%EC%9B%B9-MVC-DB-%EC%A0%91%EA%B7%BC-%EA%B8%B0%EC%88%A0-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B9%88-%EC%9D%98%EC%A1%B4%EA%B4%80%EA%B3%84)
 * DB Connection(easy jdbc, jdbctemplate, jpa, spring data jpa, AOP)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%BD%94%EB%93%9C%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%EC%9B%B9-MVC-DB-%EC%A0%91%EA%B7%BC-%EA%B8%B0%EC%88%A0-Jdbc-JPA-AOP)
 ## [6. 스프링 핵심 원리 - 기본편](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8/)
-START : 2024/06/22
+START : 2024/06/22 END : 2024/07/01 [Certificates](https://www.inflearn.com/certificate/453235-325969-12909692)
 * Spring OutLine(EJB to Spring, SOLID, polymorphism)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8-Spring%EC%9D%98-%EB%B0%B0%EA%B2%BD)
 * Spring create example (Member order management example without spring)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8-%EC%98%88%EC%A0%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 * Spring DI Container (AppConfig, @Configuration, @Bean, DI Container)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8-%EA%B4%80%EC%8B%AC%EC%82%AC%EC%9D%98-%EB%B6%84%EB%A6%AC)
@@ -69,3 +69,4 @@ START : 2024/06/22
 * Auto DI, Auto Bean Register in Container(4 type of DI, Lombok, @Qualify, @Primary, select auto vs manual)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8-%EC%9D%98%EC%A1%B4%EA%B4%80%EA%B3%84-%EC%9E%90%EB%8F%99-%EC%A3%BC%EC%9E%85)
 * Bean Lifecycle Callbacks(Separate creation and initialization, InitializingBean, DisposableBean, @Bean Parameter, @PostConstruct, @PreDestroy
 )[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8-%EB%B9%88-%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0-%EC%BD%9C%EB%B0%B1)
+* Bean Scope(PrototypeScope, LazyLoading, WebScope)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8-Bean-Scope)
