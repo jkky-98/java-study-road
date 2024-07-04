@@ -74,3 +74,4 @@ START : 2024/06/22 END : 2024/07/01 [Certificates](https://www.inflearn.com/cert
 START : 2024/07/02
 * Internet Network (IP, TCP, UDP, TCP 3 way handshake, Port, DNS)[study note](https://velog.io/@aal2525/%EB%AA%A8%EB%93%A0-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-HTTP-%EC%9B%B9-%EA%B8%B0%EB%B3%B8-%EC%A7%80%EC%8B%9D-Internet-Network)
 * HTTP communication flow, URI(URL, URN, URI, web browser - web server communication flow)[study note](https://velog.io/@aal2525/%EB%AA%A8%EB%93%A0-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-HTTP-%EC%9B%B9-%EA%B8%B0%EB%B3%B8-%EC%A7%80%EC%8B%9D-URI%EC%99%80-%EC%9B%B9-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EC%9A%94%EC%B2%AD-%ED%9D%90%EB%A6%84)
+* HTTP Overview (Http history, client and server, stateless, connectedless, http messages)[study note](https://velog.io/@aal2525/%EB%AA%A8%EB%93%A0-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-HTTP-%EC%9B%B9-%EA%B8%B0%EB%B3%B8-%EC%A7%80%EC%8B%9D-HTTP)
