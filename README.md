@@ -71,7 +71,7 @@ START : 2024/06/22 END : 2024/07/01 [Certificates](https://www.inflearn.com/cert
 )[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8-%EB%B9%88-%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0-%EC%BD%9C%EB%B0%B1)
 * Bean Scope(PrototypeScope, LazyLoading, WebScope)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8-Bean-Scope)
 ## [7. 모든 개발자를 위한 HTTP 웹 기본 지식](https://www.inflearn.com/course/http-%EC%9B%B9-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/)
-START : 2024/07/02
+START : 2024/07/02 End : 2024/07/09 [Certificates](https://www.inflearn.com/certificate/453235-326277-12947216)
 * Internet Network (IP, TCP, UDP, TCP 3 way handshake, Port, DNS)[study note](https://velog.io/@aal2525/%EB%AA%A8%EB%93%A0-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-HTTP-%EC%9B%B9-%EA%B8%B0%EB%B3%B8-%EC%A7%80%EC%8B%9D-Internet-Network)
 * HTTP communication flow, URI(URL, URN, URI, web browser - web server communication flow)[study note](https://velog.io/@aal2525/%EB%AA%A8%EB%93%A0-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-HTTP-%EC%9B%B9-%EA%B8%B0%EB%B3%B8-%EC%A7%80%EC%8B%9D-URI%EC%99%80-%EC%9B%B9-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EC%9A%94%EC%B2%AD-%ED%9D%90%EB%A6%84)
 * HTTP Overview (Http history, client and server, stateless, connectedless, http messages)[study note](https://velog.io/@aal2525/%EB%AA%A8%EB%93%A0-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-HTTP-%EC%9B%B9-%EA%B8%B0%EB%B3%B8-%EC%A7%80%EC%8B%9D-HTTP)
@@ -79,3 +79,7 @@ START : 2024/07/02
 * make use of http method(HTML form, multipart/form-data, API)[study note](https://velog.io/@aal2525/%EB%AA%A8%EB%93%A0-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-HTTP-%EC%9B%B9-%EA%B8%B0%EB%B3%B8-%EC%A7%80%EC%8B%9D-Make-use-of-http-method)
 * HTTP status code(200~500, PRG, 302 vs 301)[study note](https://velog.io/@aal2525/%EB%AA%A8%EB%93%A0-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-HTTP-%EC%9B%B9-%EA%B8%B0%EB%B3%B8-%EC%A7%80%EC%8B%9D-Status-Code)
 * HTTP Header(Representation, Negotiation, Quality Values, Cookies, XSS attack)[study note](https://velog.io/@aal2525/%EB%AA%A8%EB%93%A0-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-HTTP-%EC%9B%B9-%EA%B8%B0%EB%B3%B8-%EC%A7%80%EC%8B%9D-Header)
+* HTTP Cache(cache-control, Last-Modified, ETag, Proxy Cache, Cache Invalidation)[study note](https://velog.io/@aal2525/%EB%AA%A8%EB%93%A0-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-HTTP-%EC%9B%B9-%EA%B8%B0%EB%B3%B8-%EC%A7%80%EC%8B%9D-Cache)
+## [8. 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-mvc-1)
+START : 2024/07/10
+* Servlet preview, WAS(WebServer & WAS, Servlet, Was Multi-Thread, SSR, CSR)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-MVC-1%ED%8E%B8-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%ED%95%B5%EC%8B%AC-%EA%B8%B0%EC%88%A0-Web-app-%EC%9D%B4%ED%95%B4)
