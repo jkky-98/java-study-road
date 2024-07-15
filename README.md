@@ -84,3 +84,4 @@ START : 2024/07/02 End : 2024/07/09 [Certificates](https://www.inflearn.com/cert
 START : 2024/07/10
 * Servlet preview, WAS(WebServer & WAS, Servlet, Was Multi-Thread, SSR, CSR)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-MVC-1%ED%8E%B8-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%ED%95%B5%EC%8B%AC-%EA%B8%B0%EC%88%A0-Web-app-%EC%9D%B4%ED%95%B4)
 * Servlet(Servlet Request, Response, @WebServlet)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-MVC-1%ED%8E%B8-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%ED%95%B5%EC%8B%AC-%EA%B8%B0%EC%88%A0-Servlet)
+* Servlet, JSP, MVC Pattern(only Servlet, only JSP, V0 MVC pattern with servlet, jsp )[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-MVC-1%ED%8E%B8-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%ED%95%B5%EC%8B%AC-%EA%B8%B0%EC%88%A0-Servlet-JSP-MVC)
