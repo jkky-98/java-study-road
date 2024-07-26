@@ -94,3 +94,8 @@ START : 2024/07/10 End : 2024/07/23 [Certificates](https://www.inflearn.com/cert
 START:
 * Process, Thread(multitasking, multiprocessing, process, thread, mulitthread, schedulingQueue, context switching, cpu bound vs I/O bound task)[study note](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EA%B3%A0%EA%B8%89-1%ED%8E%B8-%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EB%93%9C%EC%99%80-%EB%8F%99%EC%8B%9C%EC%84%B1-Process-Thread)
 * Java.lang Thread, Runnable(daemon thread, Thread, Runnable)[study note](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EA%B3%A0%EA%B8%89-1%ED%8E%B8-%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EB%93%9C%EC%99%80-%EB%8F%99%EC%8B%9C%EC%84%B1-Java-Thread-Runnable)
+
+
+## [10. 스프링 MVC 2편 - 백엔드 웹 개발 핵심 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-mvc-2/dashboard)
+START:7/25
+* ThymeLeaf (th:text, utext, each,... springboot3 basic object, th:block, th:inline="javascript", th:fragment)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-MVC-2%ED%8E%B8-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%ED%99%9C%EC%9A%A9-%EA%B8%B0%EC%88%A0-Thymeleaf)
