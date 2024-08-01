@@ -14,7 +14,6 @@ public class Main {
         int brother = Integer.parseInt(siblings[1]);
 
         List<Integer> result = BFS(me, brother);
-        System.out.println(result.get(1));
         System.out.println(result.get(0));
 
     }
@@ -29,7 +28,6 @@ public class Main {
         while(!deque.isEmpty()) {
             int[] poll = deque.poll();
             visited.add(poll[0]);
-            System.out.println(Arrays.toString(poll));
             if (poll[1] == finish) {
                 break;
             }
