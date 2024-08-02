@@ -5,10 +5,12 @@ import org.hibernate.validator.constraints.Range;
 
 import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.NotNull;
-import javax.validation.constraints.Max;
 
 @Data
-public class ItemSaveForm {
+public class ItemEditForm {
+
+    @NotNull
+    private Long id;
 
     @NotBlank
     private String itemName;
@@ -17,7 +19,6 @@ public class ItemSaveForm {
     @Range(min = 1000, max = 1000000)
     private Integer price;
 
-    @Max(value = 9999)
-    @NotNull
+    //수정에서 수량은 자유롭게
     private Integer quantity;
 }
