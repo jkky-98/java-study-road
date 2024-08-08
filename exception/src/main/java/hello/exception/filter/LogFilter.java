@@ -27,7 +27,7 @@ public class LogFilter implements Filter {
             log.info("REQUEST [{}][{}][{}]", uuid, servletRequest.getDispatcherType(), requestURI);
             filterChain.doFilter(servletRequest, servletResponse); // 다음 필터 있으면 실행
         } catch (Exception e) {
-
+            throw e;
         } finally {
             log.info("RESPONSE [{}][{}][{}]", uuid, servletRequest.getDispatcherType(), requestURI);
         }
