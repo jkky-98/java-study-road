@@ -99,7 +99,7 @@ START:
 
 
 ## [10. 스프링 MVC 2편 - 백엔드 웹 개발 핵심 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-mvc-2/dashboard)
-START:7/25
+START:7/25 END:8/12 [Certificates](https://www.inflearn.com/certificate/453235-327260-12990378)
 * ***ThymeLeaf*** (th:text, utext, each,... springboot3 basic object, th:block, th:inline="javascript", th:fragment)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-MVC-2%ED%8E%B8-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%ED%99%9C%EC%9A%A9-%EA%B8%B0%EC%88%A0-Thymeleaf)
 * ***Spring Thymeleaf Integration and Form*** (th:object, th:fields, checkbox, radio button, init @ModelAttribute, select box)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-MVC-2%ED%8E%B8-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%ED%99%9C%EC%9A%A9-%EA%B8%B0%EC%88%A0-Thymeleaf-%EC%8A%A4%ED%94%84%EB%A7%81-%ED%86%B5%ED%95%A9Form)
 * ***Message internationalization*** (messages.properties, Accept-Language, MessageSource, Locale)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-MVC-2%ED%8E%B8-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%ED%99%9C%EC%9A%A9-%EA%B8%B0%EC%88%A0-Message-%EA%B5%AD%EC%A0%9C%ED%99%94)
@@ -110,3 +110,4 @@ START:7/25
 * ***Exception, ErrorPage***(ErrorPage, sendError(), take off Filter, take off Interceptor, dispatcherType, BasicErrorController Rules)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-MVC-2%ED%8E%B8-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%ED%99%9C%EC%9A%A9-%EA%B8%B0%EC%88%A0-%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC%EC%99%80-%EC%98%A4%EB%A5%98-%ED%8E%98%EC%9D%B4%EC%A7%80)
 * ***API exception, ExceptionResolver***(HandlerExceptionResolver, ResponseStatusExceptionResolver, DefaultHandlerExceptionResolver, @ExceptionHandler, ControllerAdvice)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-MVC-2%ED%8E%B8-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%ED%99%9C%EC%9A%A9-%EA%B8%B0%EC%88%A0-API%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC-ExceptionResolver)
 * ***TypeConverter***(Converter, ConversionService, Formatter, thymeleaf, field annotation)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-MVC-2%ED%8E%B8-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%ED%99%9C%EC%9A%A9-%EA%B8%B0%EC%88%A0-Type-Converter)
+* ***File upload***(Servlet getParts, multipart/form-data, MultipartFile)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-MVC-2%ED%8E%B8-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%ED%95%B5%EC%8B%AC-%EA%B8%B0%EC%88%A0-%ED%8C%8C%EC%9D%BC-%EC%97%85%EB%A1%9C%EB%93%9C)
