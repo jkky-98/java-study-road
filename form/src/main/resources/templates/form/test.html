@@ -1,0 +1,128 @@
+
+<!DOCTYPE html>
+<html xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <title>3D Volume Rendering with Slice Viewer</title>
+    <style>
+        #vtkContainer {
+            width: 100vw;
+            height: 90vh;
+        }
+        .slider-container {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            background: white;
+            padding: 10px;
+            z-index: 1;
+        }
+    </style>
+    <script type="text/javascript" src="https://unpkg.com/@babel/polyfill@7.0.0/dist/polyfill.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/vtk.js"></script>
+</head>
+<body>
+<div id="vtkContainer"></div>
+    <div class="slider-container">
+        <label for="sliceSlider">Slice:</label>
+        <input type="range" id="sliceSlider" min="0" max="0" step="1" value="0">
+        <span id="sliceValue">0</span>
+    </div>
+<script type="text/javascript" th:inline="javascript">
+    // JSON 데이터를 직접 포함
+        /*<![CDATA[*/
+        const jsonData = /*[[${ex3DBrainData}]]*/ [];
+        /*]]>*/
+
+    // JSON 데이터를 VTK 이미지 데이터로 변환하는 함수
+        function jsonToVtkImage(jsonData, spacing = [1.0, 1.0, 7.5]) {
+        const depth = jsonData.length;
+        const height = jsonData[0].length;
+        const width = jsonData[0][0].length;
+
+        // Flatten the 3D array into a 1D array
+        const flatData = jsonData.flat(2);
+
+        // Normalize the data by dividing by 255
+        const normalizedData = flatData.map(value => value / 255.0);
+
+        // Create vtkImageData
+        const imageData = vtk.Common.DataModel.vtkImageData.newInstance();
+        imageData.setDimensions(width, height, depth);
+        imageData.setSpacing(spacing[0], spacing[1], spacing[2]);
+
+        // Set scalar data
+        const vtkArray = vtk.Common.Core.vtkDataArray.newInstance({
+            numberOfComponents: 1,
+            values: new Float32Array(normalizedData)
+        });
+        imageData.getPointData().setScalars(vtkArray);
+
+        return imageData;
+    }
+
+    // Create the full-screen renderer
+    const fullScreenRenderer = vtk.Rendering.Misc.vtkFullScreenRenderWindow.newInstance({
+        rootContainer: document.getElementById('vtkContainer')
+    });
+    const renderer = fullScreenRenderer.getRenderer();
+    const renderWindow = fullScreenRenderer.getRenderWindow();
+
+    // Convert JSON data to VTK image data
+    const vtkImageData = jsonToVtkImage(jsonData, [1.0, 1.0, 7.5]);
+
+    // Create a vtkImageReslice to extract a 2D slice from the 3D data
+    const imageReslice = vtk.Imaging.Core.vtkImageReslice.newInstance();
+    imageReslice.setInputData(vtkImageData);
+
+    // Create a volume mapper
+    const volumeMapper = vtk.Rendering.Core.vtkVolumeMapper.newInstance();
+    volumeMapper.setInputConnection(imageReslice.getOutputPort());
+
+    // Create a volume
+    const volume = vtk.Rendering.Core.vtkVolume.newInstance();
+    volume.setMapper(volumeMapper);
+
+    // Create a color transfer function
+    const colorTransferFunction = vtk.Rendering.Core.vtkColorTransferFunction.newInstance();
+    colorTransferFunction.addRGBPoint(0, 0.1, 0, 0);   // Red for 0
+    colorTransferFunction.addRGBPoint(1, 0, 1, 0);   // Green for 1
+
+    const opacityFunction = vtk.Common.DataModel.vtkPiecewiseFunction.newInstance();
+    opacityFunction.addPoint(0.0, 0.0);  // Opacity 0 at value 0
+    opacityFunction.addPoint(1.0, 0.15);  // Opacity 1 at value 1
+
+    // Set volume property
+    const volumeProperty = vtk.Rendering.Core.vtkVolumeProperty.newInstance();
+    volumeProperty.setRGBTransferFunction(0, colorTransferFunction);
+    volumeProperty.setScalarOpacity(0, opacityFunction);
+    volume.setProperty(volumeProperty);
+
+    // Add the volume to the renderer
+    renderer.addVolume(volume);
+
+    // Set camera and render
+    renderer.resetCamera();
+    renderWindow.render();
+
+    // Setup the slider
+    const slider = document.getElementById('sliceSlider');
+    const sliceValue = document.getElementById('sliceValue');
+    slider.max = jsonData.length - 1;
+
+    slider.addEventListener('input', () => {
+            const sliceIndex = parseInt(slider.value, 10);
+            sliceValue.textContent = sliceIndex;
+
+            // Update the imageReslice to the new slice
+            // Set the reslice axes to view the slice in the Z direction
+            imageReslice.setResliceAxes(vtk.Common.Core.vtkMatrixBuilder
+                .buildFromDegree()
+                .identity()
+                .translate(0, 0, sliceIndex)
+                .getMatrix());
+
+            renderWindow.render();
+        });
+</script>
+</body>
+</html>
