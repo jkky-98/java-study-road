@@ -116,3 +116,4 @@ START:7/25 END:8/12 [Certificates](https://www.inflearn.com/certificate/453235-3
 ## [11. 스프링 DB 1편 - 데이터 접근 핵심 원리](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-db-1/dashboard)
 START:8/16
 * ***Jdbc, ConnectionPool***(Connection, Statement, ResultSet, Driver, DriverManager, HIkariCP, DataSource)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-DB-1%ED%8E%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%91%EA%B7%BC-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-JDBC-DataSource-ConnectionPooling)
+* ***Transaction***(transaction concept, ACID, DB session, auto commit, DB Lock, commit, rollback)[study code](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-DB-1%ED%8E%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%91%EA%B7%BC-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-Transaction)
