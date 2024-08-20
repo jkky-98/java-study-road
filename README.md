@@ -112,3 +112,7 @@ START:7/25 END:8/12 [Certificates](https://www.inflearn.com/certificate/453235-3
 * ***API exception, ExceptionResolver***(HandlerExceptionResolver, ResponseStatusExceptionResolver, DefaultHandlerExceptionResolver, @ExceptionHandler, ControllerAdvice)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-MVC-2%ED%8E%B8-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%ED%99%9C%EC%9A%A9-%EA%B8%B0%EC%88%A0-API%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC-ExceptionResolver)
 * ***TypeConverter***(Converter, ConversionService, Formatter, thymeleaf, field annotation)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-MVC-2%ED%8E%B8-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%ED%99%9C%EC%9A%A9-%EA%B8%B0%EC%88%A0-Type-Converter)
 * ***File upload***(Servlet getParts, multipart/form-data, MultipartFile)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-MVC-2%ED%8E%B8-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%ED%95%B5%EC%8B%AC-%EA%B8%B0%EC%88%A0-%ED%8C%8C%EC%9D%BC-%EC%97%85%EB%A1%9C%EB%93%9C)
+
+## [11. 스프링 DB 1편 - 데이터 접근 핵심 원리](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-db-1/dashboard)
+START:8/16
+* ***Jdbc, ConnectionPool***(Connection, Statement, ResultSet, Driver, DriverManager, HIkariCP, DataSource)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-DB-1%ED%8E%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%91%EA%B7%BC-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-JDBC-DataSource-ConnectionPooling)
