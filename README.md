@@ -41,6 +41,7 @@ START : 2024/05/07 End : 2024/05/29 [Certificates](https://www.inflearn.com/cert
 * ***Local, Anonymous Class***(local class, anonymous class, local capture)[study note](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EC%A4%91%EA%B8%89%ED%8E%B81-%EC%A4%91%EC%B2%A9-%EB%82%B4%EB%B6%80-%ED%81%B4%EB%9E%98%EC%8A%A42)
 * ***exception theory***( checked exception, unchecked exception, try, catch, throw, throws, exception class hierarchy)[study note](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EC%A4%91%EA%B8%89%ED%8E%B81-%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC-%EC%9D%B4%EB%A1%A0)
 * ***make use of exception***(finally, exception다형성, unchecked exception, most unchecked exceptions are, specific processing part, try-with-resources)[study_note](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EC%A4%91%EA%B8%89%ED%8E%B81-%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC-%EB%94%94%ED%85%8C%EC%9D%BC-%EC%8B%A4%EB%AC%B4)
+---
 ## [4. 김영한의 실전 자바 - 중급 2편](https://www.inflearn.com/course/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EC%A4%91%EA%B8%89-2)
 START : 2024/06/01 End : 2024/06/17 [Certificates](https://www.inflearn.com/certificate/453235-333482-12875768)
 * ***necessity of Generic***(Trade-off between type safety and code reusability when not using generics, How to write generics, type inference )[study note](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EC%A4%91%EA%B8%89%ED%8E%B82-Generic%EC%9D%98-%ED%95%84%EC%9A%94%EC%9D%B4%EC%9C%A0)
@@ -53,12 +54,14 @@ START : 2024/06/01 End : 2024/06/17 [Certificates](https://www.inflearn.com/cert
 * ***Collection Set-HashSet, LinkedHashSet, TreeSet***(tap into Java collection Set, binary-tree)[study note](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EC%A4%91%EA%B8%89%ED%8E%B82-Collection-Set)
 * ***Collection Map, Deque***(Map concept, Map-key equals with Set, Queue, Stack with Deque, Generic is Invariant)[study note](https://velog.io/@aal2525/hfe76r5f)
 * ***Collection Iterable, Comparable***(Iterable, Iterator, Comparable, Comparator, Xxx.of, Collection utils)[study note](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EC%A4%91%EA%B8%89%ED%8E%B82-Iterable-Comparable)
+---
 ## [5. 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8/)
 START : 2024/06/18 End : 2024/06/21
 * ***Setting Spring Boot, web develop basic***(MVC, Template Engine, static contents, API, Controller, Tomcat)[study note](https://velog.io/@aal2525/Spring-Start-1)
 * ***Membership management example, TestCase***(Junit, Assertions, BeforeEach, AfterEach)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%BD%94%EB%93%9C%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%EC%9B%B9-MVC-DB-%EC%A0%91%EA%B7%BC-%EA%B8%B0%EC%88%A0-%ED%9A%8C%EC%9B%90-%EA%B4%80%EB%A6%AC-%EC%98%88%EC%A0%9C)
 * ***SpringBean***(ComponentScan, @Configuration, DI, Autowired)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%BD%94%EB%93%9C%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%EC%9B%B9-MVC-DB-%EC%A0%91%EA%B7%BC-%EA%B8%B0%EC%88%A0-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B9%88-%EC%9D%98%EC%A1%B4%EA%B4%80%EA%B3%84)
 * ***DB Connection***(easy jdbc, jdbctemplate, jpa, spring data jpa, AOP)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%BD%94%EB%93%9C%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%EC%9B%B9-MVC-DB-%EC%A0%91%EA%B7%BC-%EA%B8%B0%EC%88%A0-Jdbc-JPA-AOP)
+
 ## [6. 스프링 핵심 원리 - 기본편](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8/)
 START : 2024/06/22 END : 2024/07/01 [Certificates](https://www.inflearn.com/certificate/453235-325969-12909692)
 * ***Spring OutLine***(EJB to Spring, SOLID, polymorphism)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8-Spring%EC%9D%98-%EB%B0%B0%EA%B2%BD)
@@ -70,6 +73,7 @@ START : 2024/06/22 END : 2024/07/01 [Certificates](https://www.inflearn.com/cert
 * ***Bean Lifecycle Callbacks***(Separate creation and initialization, InitializingBean, DisposableBean, @Bean Parameter, @PostConstruct, @PreDestroy
 )[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8-%EB%B9%88-%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0-%EC%BD%9C%EB%B0%B1)
 * ***Bean Scope***(PrototypeScope, LazyLoading, WebScope)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8-Bean-Scope)
+---
 ## [7. 모든 개발자를 위한 HTTP 웹 기본 지식](https://www.inflearn.com/course/http-%EC%9B%B9-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/)
 START : 2024/07/02 End : 2024/07/09 [Certificates](https://www.inflearn.com/certificate/453235-326277-12947216)
 * ***Internet Network*** (IP, TCP, UDP, TCP 3 way handshake, Port, DNS)[study note](https://velog.io/@aal2525/%EB%AA%A8%EB%93%A0-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-HTTP-%EC%9B%B9-%EA%B8%B0%EB%B3%B8-%EC%A7%80%EC%8B%9D-Internet-Network)
@@ -97,8 +101,7 @@ START:
 * ***Thread State, LifeCycle1***(thread's basic information, thread state, check exception, join())[study note](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EA%B3%A0%EA%B8%89-1%ED%8E%B8-%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EB%93%9C%EC%99%80-%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%8A%A4%EB%A0%88%EB%93%9C-%EC%A0%9C%EC%96%B4%EC%99%80-%EC%83%9D%EB%AA%85-%EC%A3%BC%EA%B8%B01)
 * ***Thread interrupt, yield***(interrupt, isInterrupted, interrupted, yield)[study note](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EA%B3%A0%EA%B8%89-1%ED%8E%B8-%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EB%93%9C%EC%99%80-%EB%8F%99%EC%8B%9C%EC%84%B1-Interrupt-Yield)
 * ***memory visiable***(cpu cash memory, volatile, happens-before)[study note](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EA%B3%A0%EA%B8%89-1%ED%8E%B8-%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EB%93%9C%EC%99%80-%EB%8F%99%EC%8B%9C%EC%84%B1-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B0%80%EC%8B%9C%EC%84%B1)
-
-
+---
 ## [10. 스프링 MVC 2편 - 백엔드 웹 개발 핵심 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-mvc-2/dashboard)
 START:7/25 END:8/12 [Certificates](https://www.inflearn.com/certificate/453235-327260-12990378)
 * ***ThymeLeaf*** (th:text, utext, each,... springboot3 basic object, th:block, th:inline="javascript", th:fragment)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-MVC-2%ED%8E%B8-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%ED%99%9C%EC%9A%A9-%EA%B8%B0%EC%88%A0-Thymeleaf)
@@ -112,17 +115,19 @@ START:7/25 END:8/12 [Certificates](https://www.inflearn.com/certificate/453235-3
 * ***API exception, ExceptionResolver***(HandlerExceptionResolver, ResponseStatusExceptionResolver, DefaultHandlerExceptionResolver, @ExceptionHandler, ControllerAdvice)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-MVC-2%ED%8E%B8-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%ED%99%9C%EC%9A%A9-%EA%B8%B0%EC%88%A0-API%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC-ExceptionResolver)
 * ***TypeConverter***(Converter, ConversionService, Formatter, thymeleaf, field annotation)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-MVC-2%ED%8E%B8-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%ED%99%9C%EC%9A%A9-%EA%B8%B0%EC%88%A0-Type-Converter)
 * ***File upload***(Servlet getParts, multipart/form-data, MultipartFile)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-MVC-2%ED%8E%B8-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%ED%95%B5%EC%8B%AC-%EA%B8%B0%EC%88%A0-%ED%8C%8C%EC%9D%BC-%EC%97%85%EB%A1%9C%EB%93%9C)
-
+---
 ## [11. 스프링 DB 1편 - 데이터 접근 핵심 원리](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-db-1/dashboard)
 START:8/16 END:8/22 [Certificates](https://www.inflearn.com/certificate/453235-328723-12990377)
 * ***Jdbc, ConnectionPool***(Connection, Statement, ResultSet, Driver, DriverManager, HIkariCP, DataSource)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-DB-1%ED%8E%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%91%EA%B7%BC-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-JDBC-DataSource-ConnectionPooling)
 * ***Transaction***(transaction concept, ACID, DB session, auto commit, DB Lock, commit, rollback)[study code](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-DB-1%ED%8E%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%91%EA%B7%BC-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-Transaction)
 * ***Transaction Manage, AOP***(TransactionManager, Connection in ThreadLocal, @Transactional, TransactionTemplate)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-DB-1%ED%8E%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%91%EA%B7%BC-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-Transaction-%EA%B4%80%EB%A6%AC-Spring-AOP-Transaction)
 * ***SqlException, JdbcTemplate***(Java Exception, SQLException, SQLExceptionTranslator, DataAccessException, JdbcTemplate)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-DB-1%ED%8E%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%91%EA%B7%BC-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-Repository-%EC%98%88%EC%99%B8-%EC%B2%98%EB%A6%AC-JdbcTemplate#jdbctemplate)
+---
 ## [12. 스프링 DB 2편 - 데이터 접근 핵심 원리](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-db-2/dashboard)
-START:8/23
+START:8/23 END:9/3 [Certificates](https://www.inflearn.com/certificate/453235-328990-12990376)
 * ***Spring JdbcTemplate***(update, query, queryForObject, NamedParameterJdbcTemplate, BeanPropertyRowMapper, SimpleJdbcInsert, SqlParameterSource)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-DB-1%ED%8E%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%91%EA%B7%BC-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-Spring-Jdbc-Template)
 * ***Repository Test, @Transactional***(db seperation for test, @Transactional for test, H2 embedded mode for test, Independent implementation with rollback)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-DB-2%ED%8E%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%91%EA%B7%BC-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-Repository-Test)
 * ***MyBatis***(@Mapper, xml, ItemMapper)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-DB-2%ED%8E%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%91%EA%B7%BC-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-Mybatis-%EA%B8%B0%EC%B4%88)
 * ***JPA(Intro)***(JPA, SpringDataJpa, querydsl)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-DB-2%ED%8E%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%91%EA%B7%BC-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-JPA-Spring-Data-JPA-QueryDSL)
 * ***Spring Transaction Detail***(Cglib Proxy, transaction option, proxy internal call problem)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-DB-2%ED%8E%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%91%EA%B7%BC-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EC%8A%A4%ED%94%84%EB%A7%81-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98)
+* ***Tranaction Propagation*** (REQUIRED, rollbackOnly, isNewTransaction(), physical & logical transaction)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-DB-2%ED%8E%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%91%EA%B7%BC-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%A0%84%ED%8C%8C)
