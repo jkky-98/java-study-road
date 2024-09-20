@@ -22,5 +22,4 @@ public class Member {
 
     @OneToMany(mappedBy = "member") // 하나의 회원이 여러 상품 주문 // 연관관계 주인 -> Order // mappedBy를 통해 읽기 전용이 되는것.
     private List<Order> orders = new ArrayList<>();
-
 }
