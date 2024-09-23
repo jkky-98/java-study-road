@@ -8,7 +8,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Entity
-@Getter @Setter
+@Getter
+@Setter
 public class Member {
 
     @Id @GeneratedValue
@@ -20,6 +21,6 @@ public class Member {
     @Embedded
     private Address address;
 
-    @OneToMany(mappedBy = "member") // 하나의 회원이 여러 상품 주문 // 연관관계 주인 -> Order // mappedBy를 통해 읽기 전용이 되는것.
+    @OneToMany(mappedBy = "member")
     private List<Order> orders = new ArrayList<>();
 }

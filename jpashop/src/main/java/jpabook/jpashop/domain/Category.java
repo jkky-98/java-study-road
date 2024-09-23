@@ -9,8 +9,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Entity
-@Getter @Setter
-public class  Category {
+@Getter
+@Setter
+public class Category {
 
     @Id
     @GeneratedValue
@@ -20,23 +21,23 @@ public class  Category {
     private String name;
 
     @ManyToMany
-    @JoinTable(name = "category_item",
+    @JoinTable(
+            name = "category_item",
             joinColumns = @JoinColumn(name = "category_id"),
             inverseJoinColumns = @JoinColumn(name = "item_id")
     )
     private List<Item> items = new ArrayList<>();
 
-    @ManyToOne(fetch = FetchType.LAZY)
+    @ManyToOne
     @JoinColumn(name = "parent_id")
     private Category parent;
 
     @OneToMany(mappedBy = "parent")
-    private List<Category> child = new ArrayList<>();
+    private List<Category> child;
 
-    // 연관관계 메서드 //
-
+    //==연관관계 메서드==//
     public void addChildCategory(Category child) {
         this.child.add(child);
-        child.setParent(child);
+        child.setParent(this);
     }
 }
