@@ -1,0 +1,37 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org" data-bs-theme="dark">
+<head th:replace="fragments/header :: header">
+  <title>Hello</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+<div class="container pa-4">
+  <div th:replace="fragments/bodyHeader :: bodyHeader"></div>
+  <div class="jumbotron p-5 my-4 bg-body-tertiary rounded-3">
+    <div class="border border-dark text-light text-center mb-4">
+      <h1 class="my-2">HELLO SHOP</h1>
+    </div>
+    <p class="lead">회원 기능</p>
+    <p>
+      <a class="btn btn-lg btn-outline-light btn-primary" href="/members/new">회원 가입</a>
+      <a class="btn btn-lg btn-outline-light" href="/members">회원 목록</a>
+    </p>
+    <p class="lead">상품 기능</p>
+    <p>
+      <a class="btn btn-lg btn-outline-light btn-success" href="/items/new">상품 등록</a>
+      <a class="btn btn-lg btn-outline-light" href="/items">상품 목록</a>
+    </p>
+    <p class="lead">주문 기능</p>
+    <p>
+      <a class="btn btn-lg btn-outline-light btn-info" href="/order">상품 주문</a>
+      <a class="btn btn-lg btn-outline-light" href="/orders">주문 내역</a>
+    </p>
+    <p class="lead">&nbsp;</p>
+    <div class="d-grid gap-2 col-6 mx-auto">
+      <a class="btn btn-primary" type="button" href="/login">로그인</a>
+    </div>
+  </div>
+  <div th:replace="fragments/footer :: footer"></div>
+</div> <!-- /container -->
+</body>
+</html>
