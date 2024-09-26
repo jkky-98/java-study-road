@@ -148,3 +148,4 @@ START:9/19 END: 9/24[Certifications](https://www.inflearn.com/certificate/453235
 ## [14.자바 ORM 표준 JPA 프로그래밍 - 기본편](https://www.inflearn.com/course/ORM-JPA-Basic/dashboard)
 START:9/25
 * ***Persistence Context***(persistence context, transient, managed, detached, flush)[study note](https://velog.io/@aal2525/%EC%9E%90%EB%B0%94-ORM-%ED%91%9C%EC%A4%80-JPA-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B8%B0%EB%B3%B8%ED%8E%B8-%EC%98%81%EC%86%8D%EC%84%B1-%EA%B4%80%EB%A6%AC)
+* ***Entity Mapping***(Column Mapping, ddl.auto, @Id, id strategy)[study note](https://velog.io/@aal2525/%EC%9E%90%EB%B0%94-ORM-%ED%91%9C%EC%A4%80-JPA-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B8%B0%EB%B3%B8%ED%8E%B8-Entity-Mapping)
