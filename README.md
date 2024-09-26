@@ -144,3 +144,7 @@ START:9/19 END: 9/24[Certifications](https://www.inflearn.com/certificate/453235
 * ***Entity Design***(JoinColumn, mappedBy, @Embedded, FetchType.LAZY)[study note](https://velog.io/@aal2525/%EC%8B%A4%EC%A0%84-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8%EC%99%80-JPA-%ED%99%9C%EC%9A%A91-%EC%9B%B9-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EA%B0%9C%EB%B0%9C-%EC%97%94%ED%8B%B0%ED%8B%B0-%EB%B6%84%EC%84%9D-%EB%B0%8F-%EC%84%A4%EA%B3%84)
 * ***Member, Item Service, Repository(practice with JPA)[study note](https://velog.io/@aal2525/%EC%8B%A4%EC%A0%84-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8%EC%99%80-JPA-%ED%99%9C%EC%9A%A91-%EC%9B%B9-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EA%B0%9C%EB%B0%9C-%ED%9A%8C%EC%9B%90-Service-Repository-%EC%84%A4%EA%B3%84)***
 * ***Order Service, Repository(practice with JPA)***[study note](https://velog.io/@aal2525/%EC%8B%A4%EC%A0%84-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8%EC%99%80-JPA-%ED%99%9C%EC%9A%A91-%EC%9B%B9-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EA%B0%9C%EB%B0%9C-%EC%A3%BC%EB%AC%B8-Service-Repository-Entity-logic-%EC%84%A4%EA%B3%84)
+
+## [14.자바 ORM 표준 JPA 프로그래밍 - 기본편](https://www.inflearn.com/course/ORM-JPA-Basic/dashboard)
+START:9/25
+* ***Persistence Context***(persistence context, transient, managed, detached, flush)[study note](https://velog.io/@aal2525/%EC%9E%90%EB%B0%94-ORM-%ED%91%9C%EC%A4%80-JPA-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B8%B0%EB%B3%B8%ED%8E%B8-%EC%98%81%EC%86%8D%EC%84%B1-%EA%B4%80%EB%A6%AC)
