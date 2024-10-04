@@ -13,7 +13,7 @@ public class Member extends BaseEntity {
 
     private String name;
 
-    @OneToOne(mappedBy = "member")
+    @OneToOne(mappedBy = "member", fetch = FetchType.LAZY)
     private Locker locker;
 
     @Embedded

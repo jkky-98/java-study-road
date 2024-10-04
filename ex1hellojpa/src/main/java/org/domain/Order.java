@@ -13,11 +13,11 @@ public class Order {
     @Column(name = "ORDER_ID")
     private Long id;
 
-    @ManyToOne
+    @ManyToOne(fetch = FetchType.LAZY)
     @JoinColumn(name = "MEMBER_ID")
     private Member member;
 
-    @OneToMany(mappedBy = "order")
+    @OneToMany(mappedBy = "order", cascade = CascadeType.PERSIST, orphanRemoval = true)
     private List<OrderItem> orderItems;
 
     private LocalDateTime orderDate;
@@ -25,7 +25,7 @@ public class Order {
     @Enumerated(EnumType.STRING)
     private Status status;
 
-    @OneToOne
+    @OneToOne(fetch = FetchType.LAZY, cascade = CascadeType.ALL)
     @JoinColumn(name = "DELIVERY_ID")
     private Delivery delivery;
 

@@ -19,15 +19,27 @@ public class JpaMain {
         tx.begin();
 
         try {
+            Member member = new Member.Builder()
+                    .name("hello")
+                    .build();
 
-            Movie movie = new Movie();
-            movie.setName("IronMan3");
-            movie.setPrice(15000);
-            movie.setStockQuantity(10);
-            movie.setActor("Robert");
-            movie.setDirector("봉준호");
+            em.persist(member);
 
-            em.persist(movie);
+            Order order = new Order();
+            order.setMember(member);
+
+            OrderItem orderItem = new OrderItem();
+            orderItem.setOrder(order);
+
+            em.persist(orderItem);
+            em.persist(order);
+
+            em.flush();
+            em.clear();
+
+            Order findOrder = em.find(Order.class, order.getId());
+
+            em.remove(findOrder);
 
             tx.commit();
         } catch (Exception e) {
