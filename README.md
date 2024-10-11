@@ -146,7 +146,7 @@ START:9/19 END: 9/24[Certifications](https://www.inflearn.com/certificate/453235
 * ***Order Service, Repository(practice with JPA)***[study note](https://velog.io/@aal2525/%EC%8B%A4%EC%A0%84-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8%EC%99%80-JPA-%ED%99%9C%EC%9A%A91-%EC%9B%B9-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EA%B0%9C%EB%B0%9C-%EC%A3%BC%EB%AC%B8-Service-Repository-Entity-logic-%EC%84%A4%EA%B3%84)
 
 ## [14.자바 ORM 표준 JPA 프로그래밍 - 기본편](https://www.inflearn.com/course/ORM-JPA-Basic/dashboard)
-START:9/25
+START:9/25 END:10/10[Certificates](https://www.inflearn.com/certificate/453235-324109-13127499) 
 * ***Persistence Context***(persistence context, transient, managed, detached, flush)[study note](https://velog.io/@aal2525/%EC%9E%90%EB%B0%94-ORM-%ED%91%9C%EC%A4%80-JPA-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B8%B0%EB%B3%B8%ED%8E%B8-%EC%98%81%EC%86%8D%EC%84%B1-%EA%B4%80%EB%A6%AC)
 * ***Entity Mapping***(Column Mapping, ddl.auto, @Id, id strategy)[study note](https://velog.io/@aal2525/%EC%9E%90%EB%B0%94-ORM-%ED%91%9C%EC%A4%80-JPA-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B8%B0%EB%B3%B8%ED%8E%B8-Entity-Mapping)
 * ***Association mapping***(@JoinColumn, Bidirectional relationship, mappedBy, Using object orientation in object-table relationships)[study note](https://velog.io/@aal2525/%EC%9E%90%EB%B0%94-ORM-%ED%91%9C%EC%A4%80-JPA-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B8%B0%EB%B3%B8%ED%8E%B8-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84-%EB%A7%A4%ED%95%91-%EA%B8%B0%EC%B4%88)
@@ -155,3 +155,6 @@ START:9/25
 * ***jpa embedded***(object immutability, Do not use value type collections, @Embedded, @Embeddable)[study note](https://velog.io/@aal2525/%EC%9E%90%EB%B0%94-ORM-%ED%91%9C%EC%A4%80-JPA-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B8%B0%EB%B3%B8%ED%8E%B8-%EA%B0%92-%ED%83%80%EC%9E%85-%EB%A7%A4%ED%95%91)
 * ***jpql grammer***(Query, projection, paging, Join, subQuery)[study note](https://velog.io/@aal2525/%EC%9E%90%EB%B0%94-ORM-%ED%91%9C%EC%A4%80-JPA-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B8%B0%EB%B3%B8%ED%8E%B8-JPQL-%EB%AC%B8%EB%B2%95-%EA%B8%B0%EB%B3%B8)
 * ***jpql high level grammer***(jpql alias, Implicit JOIN, fetch join, distinct, bulk jpql)[study note](https://velog.io/@aal2525/%EC%9E%90%EB%B0%94-ORM-%ED%91%9C%EC%A4%80-JPA-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B8%B0%EB%B3%B8%ED%8E%B8-JPQL-%EA%B3%A0%EA%B8%89-%EB%AC%B8%EB%B2%95)
+## [15.실전! 스프링 부트와 JPA 활용2 - API 개발과 성능 최적화](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-JPA-API%EA%B0%9C%EB%B0%9C-%EC%84%B1%EB%8A%A5%EC%B5%9C%EC%A0%81%ED%99%94/dashboard)
+START:10/10 END: 
+* ***API Controller Setting***(dto, json list)[study note](https://velog.io/@aal2525/%EC%8B%A4%EC%A0%84-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8%EC%99%80-JPA-%ED%99%9C%EC%9A%A92-API-%EA%B0%9C%EB%B0%9C%EA%B3%BC-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-API-Controller-%EA%B5%AC%EC%B6%95)
