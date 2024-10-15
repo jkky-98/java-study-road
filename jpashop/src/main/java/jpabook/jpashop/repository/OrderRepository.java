@@ -58,13 +58,23 @@ public class OrderRepository {
         TypedQuery<Order> query = em.createQuery(cq).setMaxResults(1000);
         return query.getResultList();
     }
-
     public List<Order> findAllWithMemberDelivery() {
         return em.createQuery(
                 "select o from Order o" +
                         " join fetch o.member m" +
                         " join fetch o.delivery d", Order.class
         ).getResultList();
+    }
+
+    public List<Order> findAllWithMemberDelivery(int offset, int limit) {
+        return em.createQuery(
+                "select o from Order o" +
+                        " join fetch o.member m" +
+                        " join fetch o.delivery d", Order.class
+        ).setFirstResult(offset)
+                .setMaxResults(limit)
+                .getResultList();
+
     }
 
     public List<OrderSimpleQueryDto> findOrderDtos() {
@@ -75,4 +85,14 @@ public class OrderRepository {
         ).getResultList();
     }
     // 재사용성 떨어짐, 그러나 fetch join보다 성능 최적화에서 낫다.(엔티티를 조회한 것이 아니기 때문, V3는 엔티티를 조회해서 확장성이 좋음)
+
+    public List<Order> findAllWithItem() {
+            return em.createQuery(
+                    "select distinct o from Order o" +
+                            " join fetch o.member m" + // ToX fetch join
+                            " join fetch o.delivery d" + // ToX fetch join
+                            " join fetch o.orderItems oi" + // 지연로딩 + BatchSize
+                            " join fetch oi.item i", Order.class
+            ).getResultList();
+    }
 }
