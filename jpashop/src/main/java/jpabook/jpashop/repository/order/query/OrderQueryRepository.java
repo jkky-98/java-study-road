@@ -58,6 +58,8 @@ public class OrderQueryRepository {
                 ).setParameter("orderIds", orderIds)
                 .getResultList();
 
+        System.out.println(orderItems);
+
         Map<Long, List<OrderItemQueryDto>> orderItemMap = orderItems.stream()
                 .collect(Collectors.groupingBy(OrderItemQueryDto::getOrderId));
 

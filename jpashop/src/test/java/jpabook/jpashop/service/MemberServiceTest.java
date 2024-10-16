@@ -1,7 +1,7 @@
 package jpabook.jpashop.service;
 
 import jpabook.jpashop.domain.Member;
-import jpabook.jpashop.repository.MemberRepository;
+import jpabook.jpashop.repository.MemberRepositoryOld;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
@@ -13,7 +13,6 @@ import org.springframework.transaction.annotation.Transactional;
 import java.util.List;
 
 import static org.assertj.core.api.Assertions.assertThat;
-import static org.junit.jupiter.api.Assertions.*;
 
 @ExtendWith(SpringExtension.class)
 @SpringBootTest
@@ -21,7 +20,8 @@ import static org.junit.jupiter.api.Assertions.*;
 class MemberServiceTest {
 
     @Autowired MemberService memberService;
-    @Autowired MemberRepository memberRepository;
+    @Autowired
+    MemberRepositoryOld memberRepositoryOld;
 
     @Test
     void 회원가입() {
@@ -33,7 +33,7 @@ class MemberServiceTest {
         Long saveId = memberService.join(member);
 
         // then
-        assertThat(member).isEqualTo(memberRepository.findOne(saveId));
+        assertThat(member).isEqualTo(memberRepositoryOld.findOne(saveId));
         // 왜 리포지토리를 써서 검증할까?
     }
 
@@ -69,7 +69,7 @@ class MemberServiceTest {
         memberService.join(m2);
         memberService.join(m3);
         // when
-        List<Member> findMemberAll = memberRepository.findAll();
+        List<Member> findMemberAll = memberRepositoryOld.findAll();
         // then
         assertThat(findMemberAll.size()).isEqualTo(3);
     }
