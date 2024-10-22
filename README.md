@@ -169,3 +169,4 @@ START:10/16
 ## [17. 실전! 스프링 데이터 JPA](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-JPA-%EC%8B%A4%EC%A0%84/dashboard)
 START:10/16
 * ***JpaRepository, Query method***(@Query, @Modifying, @EntityGraph)[study note](https://velog.io/@aal2525/%EC%8B%A4%EC%A0%84-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-JPA-%EA%B3%B5%ED%86%B5-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4-QueryMethod)
+* ***Spring Data Jpa extension***(Auditing, Paging, Domain Class Converter, with custom repository(ex.Querydsl))[study note](https://velog.io/@aal2525/%EC%8B%A4%EC%A0%84-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-JPA-%ED%99%95%EC%9E%A5-%EA%B8%B0%EB%8A%A5)
