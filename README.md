@@ -173,3 +173,4 @@ START:10/16 END: 10/21[Certificates](https://www.inflearn.com/certificate/453235
 ## [18. 실전! Querydsl : 기본 문법](https://www.inflearn.com/course/querydsl-%EC%8B%A4%EC%A0%84/dashboard)
 START:10/22
 * ***Querydsl basic grammer***(Q-type, chaining method, Tuple result)[study note](https://velog.io/@aal2525/%EC%8B%A4%EC%A0%84-Querydsl-%EA%B8%B0%EB%B3%B8-%EB%AC%B8%EB%B2%95)
+* ***Querydsl advance grammer***(Dto projection, @QueryProjection, BooleanBuilder, BooleanExpression, SQL function)[study note](https://velog.io/@aal2525/%EC%8B%A4%EC%A0%84-Querydsl-%EC%A4%91%EA%B8%89-%EB%AC%B8%EB%B2%95)
