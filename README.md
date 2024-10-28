@@ -144,7 +144,7 @@ START:9/19 END: 9/24[Certificates](https://www.inflearn.com/certificate/453235-3
 * ***Entity Design***(JoinColumn, mappedBy, @Embedded, FetchType.LAZY)[study note](https://velog.io/@aal2525/%EC%8B%A4%EC%A0%84-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8%EC%99%80-JPA-%ED%99%9C%EC%9A%A91-%EC%9B%B9-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EA%B0%9C%EB%B0%9C-%EC%97%94%ED%8B%B0%ED%8B%B0-%EB%B6%84%EC%84%9D-%EB%B0%8F-%EC%84%A4%EA%B3%84)
 * ***Member, Item Service, Repository(practice with JPA)[study note](https://velog.io/@aal2525/%EC%8B%A4%EC%A0%84-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8%EC%99%80-JPA-%ED%99%9C%EC%9A%A91-%EC%9B%B9-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EA%B0%9C%EB%B0%9C-%ED%9A%8C%EC%9B%90-Service-Repository-%EC%84%A4%EA%B3%84)***
 * ***Order Service, Repository(practice with JPA)***[study note](https://velog.io/@aal2525/%EC%8B%A4%EC%A0%84-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8%EC%99%80-JPA-%ED%99%9C%EC%9A%A91-%EC%9B%B9-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EA%B0%9C%EB%B0%9C-%EC%A3%BC%EB%AC%B8-Service-Repository-Entity-logic-%EC%84%A4%EA%B3%84)
-
+---
 ## [14.자바 ORM 표준 JPA 프로그래밍 - 기본편](https://www.inflearn.com/course/ORM-JPA-Basic/dashboard)
 START:9/25 END:10/10[Certificates](https://www.inflearn.com/certificate/453235-324109-13127499) 
 * ***Persistence Context***(persistence context, transient, managed, detached, flush)[study note](https://velog.io/@aal2525/%EC%9E%90%EB%B0%94-ORM-%ED%91%9C%EC%A4%80-JPA-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B8%B0%EB%B3%B8%ED%8E%B8-%EC%98%81%EC%86%8D%EC%84%B1-%EA%B4%80%EB%A6%AC)
@@ -155,22 +155,26 @@ START:9/25 END:10/10[Certificates](https://www.inflearn.com/certificate/453235-3
 * ***jpa embedded***(object immutability, Do not use value type collections, @Embedded, @Embeddable)[study note](https://velog.io/@aal2525/%EC%9E%90%EB%B0%94-ORM-%ED%91%9C%EC%A4%80-JPA-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B8%B0%EB%B3%B8%ED%8E%B8-%EA%B0%92-%ED%83%80%EC%9E%85-%EB%A7%A4%ED%95%91)
 * ***jpql grammer***(Query, projection, paging, Join, subQuery)[study note](https://velog.io/@aal2525/%EC%9E%90%EB%B0%94-ORM-%ED%91%9C%EC%A4%80-JPA-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B8%B0%EB%B3%B8%ED%8E%B8-JPQL-%EB%AC%B8%EB%B2%95-%EA%B8%B0%EB%B3%B8)
 * ***jpql high level grammer***(jpql alias, Implicit JOIN, fetch join, distinct, bulk jpql)[study note](https://velog.io/@aal2525/%EC%9E%90%EB%B0%94-ORM-%ED%91%9C%EC%A4%80-JPA-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B8%B0%EB%B3%B8%ED%8E%B8-JPQL-%EA%B3%A0%EA%B8%89-%EB%AC%B8%EB%B2%95)
+---
 ## [15.실전! 스프링 부트와 JPA 활용2 - API 개발과 성능 최적화](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-JPA-API%EA%B0%9C%EB%B0%9C-%EC%84%B1%EB%8A%A5%EC%B5%9C%EC%A0%81%ED%99%94/dashboard)
 START:10/10 END: 10/15[Certificates](https://www.inflearn.com/certificate/453235-324214-13127501)
 * ***API Controller Setting***(dto, json list, Avoid modifying entities)[study note](https://velog.io/@aal2525/%EC%8B%A4%EC%A0%84-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8%EC%99%80-JPA-%ED%99%9C%EC%9A%A92-API-%EA%B0%9C%EB%B0%9C%EA%B3%BC-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-API-Controller-%EA%B5%AC%EC%B6%95)
 * ***API : Order***(Optimization: fetch join, dto query with no entity)[study note](https://velog.io/@aal2525/%EC%8B%A4%EC%A0%84-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8%EC%99%80-JPA-%ED%99%9C%EC%9A%A92-API-%EA%B0%9C%EB%B0%9C%EA%B3%BC-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-%EC%A3%BC%EB%AC%B8-API)
 * ***API Query optimization advance***(Collection fetch, @BatchSize, OSIV)[study note](https://velog.io/@aal2525/%EC%8B%A4%EC%A0%84-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8%EC%99%80-JPA-%ED%99%9C%EC%9A%A92-API-%EA%B0%9C%EB%B0%9C%EA%B3%BC-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-%EC%A3%BC%EB%AC%B8-API-%EC%A1%B0%ED%9A%8C-%EC%B5%9C%EC%A0%81%ED%99%94)
-
+---
 ## [16. 김영한의 실전 자바 - 고급 2편, I/O, 네트워크, 리플렉션](https://www.inflearn.com/course/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EA%B3%A0%EA%B8%89-2/dashboard)
 START:10/16
 * ***Charset, text encoding***(ASCII, MS_949, UTF-8, korean charset history)[study note](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EA%B3%A0%EA%B8%89-2%ED%8E%B8-IO-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EB%A6%AC%ED%94%8C%EB%A0%89%EC%85%98-%EB%AC%B8%EC%9E%90-%EC%9D%B8%EC%BD%94%EB%94%A9)
 * ***Java Stream 1***(MemoryStream, System.out, FileStream, BufferedStream)[study note](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EA%B3%A0%EA%B8%89-2%ED%8E%B8-IO-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EB%A6%AC%ED%94%8C%EB%A0%89%EC%85%98-Stream-%EA%B8%B0%EB%B3%B81)
-
+---
 ## [17. 실전! 스프링 데이터 JPA](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-JPA-%EC%8B%A4%EC%A0%84/dashboard)
 START:10/16 END: 10/21[Certificates](https://www.inflearn.com/certificate/453235-324474-13145500)
 * ***JpaRepository, Query method***(@Query, @Modifying, @EntityGraph)[study note](https://velog.io/@aal2525/%EC%8B%A4%EC%A0%84-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-JPA-%EA%B3%B5%ED%86%B5-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4-QueryMethod)
 * ***Spring Data Jpa extension***(Auditing, Paging, Domain Class Converter, with custom repository(ex.Querydsl))[study note](https://velog.io/@aal2525/%EC%8B%A4%EC%A0%84-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-JPA-%ED%99%95%EC%9E%A5-%EA%B8%B0%EB%8A%A5)
+---
 ## [18. 실전! Querydsl : 기본 문법](https://www.inflearn.com/course/querydsl-%EC%8B%A4%EC%A0%84/dashboard)
-START:10/22
+START:10/22 END:10/25[Certificates](https://www.inflearn.com/certificate/453235-324476-13218197)
 * ***Querydsl basic grammer***(Q-type, chaining method, Tuple result)[study note](https://velog.io/@aal2525/%EC%8B%A4%EC%A0%84-Querydsl-%EA%B8%B0%EB%B3%B8-%EB%AC%B8%EB%B2%95)
 * ***Querydsl advance grammer***(Dto projection, @QueryProjection, BooleanBuilder, BooleanExpression, SQL function)[study note](https://velog.io/@aal2525/%EC%8B%A4%EC%A0%84-Querydsl-%EC%A4%91%EA%B8%89-%EB%AC%B8%EB%B2%95)
+* ***Spring data jpa + Querydsl***(Custom Repository, Paging, Sort)[study note](https://velog.io/@aal2525/%EC%8B%A4%EC%A0%84-Querydsl-Spring-data-jpa-Querydsl)
+---
