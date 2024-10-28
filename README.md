@@ -178,3 +178,6 @@ START:10/22 END:10/25[Certificates](https://www.inflearn.com/certificate/453235-
 * ***Querydsl advance grammer***(Dto projection, @QueryProjection, BooleanBuilder, BooleanExpression, SQL function)[study note](https://velog.io/@aal2525/%EC%8B%A4%EC%A0%84-Querydsl-%EC%A4%91%EA%B8%89-%EB%AC%B8%EB%B2%95)
 * ***Spring data jpa + Querydsl***(Custom Repository, Paging, Sort)[study note](https://velog.io/@aal2525/%EC%8B%A4%EC%A0%84-Querydsl-Spring-data-jpa-Querydsl)
 ---
+## [19. 스프링 부트 - 핵심 원리와 활용](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC-%ED%99%9C%EC%9A%A9/dashboard)
+START: 10/28
+* ***WAS, servlet container***(Tomcat, JAR, WAR, WebApplicationInitializer)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC%EC%99%80-%ED%99%9C%EC%9A%A9-WAS-servlet-container)
