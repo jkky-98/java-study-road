@@ -182,3 +182,4 @@ START:10/22 END:10/25[Certificates](https://www.inflearn.com/certificate/453235-
 START: 10/28
 * ***WAS, servlet container***(Tomcat, JAR, WAR, WebApplicationInitializer)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC%EC%99%80-%ED%99%9C%EC%9A%A9-WAS-servlet-container)
 * ***Embedded tomcat, Boot***(build & release only JAR, FatJAR, how to build in boot jar )[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC%EC%99%80-%ED%99%9C%EC%9A%A9-spring-boot-embedded-tomcat)
+* ***Library, AutoConfiguration***(spring boot starter, @Conditional, AutoConfiguration)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC%EC%99%80-%ED%99%9C%EC%9A%A9-Library-AutoConfiguration)
