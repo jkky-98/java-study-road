@@ -1,0 +1,44 @@
+#my.datasource.url=local.db.com
+#my.datasource.username=username
+#my.datasource.password=password
+#my.datasource.etc.max-connection=10
+#my.datasource.etc.options=CACHE,ADMIN
+#my.datasource.etc.timeout=3500ms
+my:
+  datasource:
+    url: local.db.com
+    username: username
+    password: password
+    etc:
+      max-connection: 10
+      options: CACHE,ADMIN
+      timeout: 60s
+---
+spring:
+  config:
+    activate:
+      on-profile: dev
+my:
+  datasource:
+    url: dev.db.com
+    username: dev_user
+    password: dev_pw
+    etc:
+      max-connection: 100
+      options: DEV,ADMIN
+      timeout: 60s
+
+---
+spring:
+  config:
+    activate:
+      on-profile: prod
+my:
+  datasource:
+    url: prod.db.com
+    username: prod_user
+    password: prod_pw
+    etc:
+      max-connection: fjkkdal
+      options: PROD,ADMIN
+      timeout: 60s
