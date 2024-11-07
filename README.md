@@ -172,7 +172,7 @@ START:10/16 END: 10/21[Certificates](https://www.inflearn.com/certificate/453235
 * ***JpaRepository, Query method***(@Query, @Modifying, @EntityGraph)[study note](https://velog.io/@aal2525/%EC%8B%A4%EC%A0%84-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-JPA-%EA%B3%B5%ED%86%B5-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4-QueryMethod)
 * ***Spring Data Jpa extension***(Auditing, Paging, Domain Class Converter, with custom repository(ex.Querydsl))[study note](https://velog.io/@aal2525/%EC%8B%A4%EC%A0%84-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-JPA-%ED%99%95%EC%9E%A5-%EA%B8%B0%EB%8A%A5)
 ---
-## [18. 실전! Querydsl : 기본 문법](https://www.inflearn.com/course/querydsl-%EC%8B%A4%EC%A0%84/dashboard)
+## [18. 실전! Querydsl](https://www.inflearn.com/course/querydsl-%EC%8B%A4%EC%A0%84/dashboard)
 START:10/22 END:10/25[Certificates](https://www.inflearn.com/certificate/453235-324476-13218197)
 * ***Querydsl basic grammer***(Q-type, chaining method, Tuple result)[study note](https://velog.io/@aal2525/%EC%8B%A4%EC%A0%84-Querydsl-%EA%B8%B0%EB%B3%B8-%EB%AC%B8%EB%B2%95)
 * ***Querydsl advance grammer***(Dto projection, @QueryProjection, BooleanBuilder, BooleanExpression, SQL function)[study note](https://velog.io/@aal2525/%EC%8B%A4%EC%A0%84-Querydsl-%EC%A4%91%EA%B8%89-%EB%AC%B8%EB%B2%95)
@@ -185,3 +185,4 @@ START: 10/28
 * ***Library, AutoConfiguration***(spring boot starter, @Conditional, AutoConfiguration)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC%EC%99%80-%ED%99%9C%EC%9A%A9-Library-AutoConfiguration)
 * ***External option 1***(OS Environment variable, Java VM option, Command line option variable, Environment)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC%EC%99%80-%ED%99%9C%EC%9A%A9-%EC%99%B8%EB%B6%80-%EC%84%A4%EC%A0%95%EA%B3%BC-%ED%94%84%EB%A1%9C%ED%95%84)
 * ***External option 2, Profile***(ConfigurationProperties, @Validated, yaml, @Profile)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC%EC%99%80-%ED%99%9C%EC%9A%A9-%EC%99%B8%EB%B6%80-%EC%84%A4%EC%A0%95%EA%B3%BC-%ED%94%84%EB%A1%9C%ED%95%84-2)
+* ***Monitoring***(Micrometer, Prometheous, Grafana, custom metric)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC%EC%99%80-%ED%99%9C%EC%9A%A9-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EB%AF%B8%ED%84%B0-%ED%94%84%EB%A1%9C%EB%A9%94%ED%85%8C%EC%9A%B0%EC%8A%A4-%EA%B7%B8%EB%9D%BC%ED%8C%8C%EB%82%98)
