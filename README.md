@@ -179,10 +179,14 @@ START:10/22 END:10/25[Certificates](https://www.inflearn.com/certificate/453235-
 * ***Spring data jpa + Querydsl***(Custom Repository, Paging, Sort)[study note](https://velog.io/@aal2525/%EC%8B%A4%EC%A0%84-Querydsl-Spring-data-jpa-Querydsl)
 ---
 ## [19. 스프링 부트 - 핵심 원리와 활용](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC-%ED%99%9C%EC%9A%A9/dashboard)
-START: 10/28
+START: 10/28 END: 11/7[Certificates](https://www.inflearn.com/certificate/453235-330459-13218199)
 * ***WAS, servlet container***(Tomcat, JAR, WAR, WebApplicationInitializer)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC%EC%99%80-%ED%99%9C%EC%9A%A9-WAS-servlet-container)
 * ***Embedded tomcat, Boot***(build & release only JAR, FatJAR, how to build in boot jar )[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC%EC%99%80-%ED%99%9C%EC%9A%A9-spring-boot-embedded-tomcat)
 * ***Library, AutoConfiguration***(spring boot starter, @Conditional, AutoConfiguration)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC%EC%99%80-%ED%99%9C%EC%9A%A9-Library-AutoConfiguration)
 * ***External option 1***(OS Environment variable, Java VM option, Command line option variable, Environment)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC%EC%99%80-%ED%99%9C%EC%9A%A9-%EC%99%B8%EB%B6%80-%EC%84%A4%EC%A0%95%EA%B3%BC-%ED%94%84%EB%A1%9C%ED%95%84)
 * ***External option 2, Profile***(ConfigurationProperties, @Validated, yaml, @Profile)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC%EC%99%80-%ED%99%9C%EC%9A%A9-%EC%99%B8%EB%B6%80-%EC%84%A4%EC%A0%95%EA%B3%BC-%ED%94%84%EB%A1%9C%ED%95%84-2)
 * ***Monitoring***(Micrometer, Prometheous, Grafana, custom metric)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC%EC%99%80-%ED%99%9C%EC%9A%A9-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EB%AF%B8%ED%84%B0-%ED%94%84%EB%A1%9C%EB%A9%94%ED%85%8C%EC%9A%B0%EC%8A%A4-%EA%B7%B8%EB%9D%BC%ED%8C%8C%EB%82%98)
+---
+## [20. 스프링 핵심 원리 - 고급편](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B3%A0%EA%B8%89%ED%8E%B8/dashboard)
+START: 11/08
+* ***Custom Log Tracker, ThreadLocal***(Singleton field Concurrency issue, ThreadLocal)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B3%A0%EA%B8%89%ED%8E%B8-%EB%A1%9C%EA%B7%B8-%EC%B6%94%EC%A0%81%EA%B8%B0-%EB%8F%99%EC%8B%9C%EC%84%B1)
