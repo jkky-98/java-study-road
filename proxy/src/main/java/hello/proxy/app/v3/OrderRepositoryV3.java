@@ -1,8 +1,9 @@
-package hello.proxy.app.v2;
+package hello.proxy.app.v3;
 
-import hello.proxy.app.v1.OrderRepositoryV1;
+import org.springframework.stereotype.Repository;
 
-public class OrderRepositoryV2 {
+@Repository
+public class OrderRepositoryV3 {
     public void save(String itemId) {
         // save logic
         if (itemId.equals("ex")) {

@@ -1,20 +1,30 @@
-package hello.proxy.app.v1;
+package hello.proxy.app.v2;
 
-public class OrderControllerV1Impl implements OrderControllerV1{
+import hello.proxy.app.v1.OrderControllerV1;
+import hello.proxy.app.v1.OrderServiceV1;
+import lombok.extern.slf4j.Slf4j;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.ResponseBody;
 
-    private final OrderServiceV1 orderService;
+@Slf4j
+@RequestMapping
+@ResponseBody
+public class OrderControllerV2 implements OrderControllerV1 {
 
-    public OrderControllerV1Impl(OrderServiceV1 orderService) {
+    private final OrderServiceV2 orderService;
+
+    public OrderControllerV2(OrderServiceV2 orderService) {
         this.orderService = orderService;
     }
 
-    @Override
+    @GetMapping("/v2/request")
     public String request(String itemId) {
         orderService.orderItem(itemId);
         return "ok";
     }
 
-    @Override
+    @GetMapping("/v2/no-log")
     public String noLog() {
         return "";
     }
