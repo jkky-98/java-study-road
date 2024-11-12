@@ -190,3 +190,4 @@ START: 10/28 END: 11/7[Certificates](https://www.inflearn.com/certificate/453235
 ## [20. 스프링 핵심 원리 - 고급편](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B3%A0%EA%B8%89%ED%8E%B8/dashboard)
 START: 11/08
 * ***Custom Log Tracker, ThreadLocal***(Singleton field Concurrency issue, ThreadLocal)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B3%A0%EA%B8%89%ED%8E%B8-%EB%A1%9C%EA%B7%B8-%EC%B6%94%EC%A0%81%EA%B8%B0-%EB%8F%99%EC%8B%9C%EC%84%B1)
+* ***Design Pattern 1***(Template Method Pattern, Strategy Pattern, Template Callback Pattern)[study note](https://velog.io/@aal2525/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B3%A0%EA%B8%89%ED%8E%B8-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4%ED%85%9C%ED%94%8C%EB%A6%BF-%EB%A9%94%EC%84%9C%EB%93%9C-%EC%A0%84%EB%9E%B5-%ED%85%9C%ED%94%8C%EB%A6%BF-%EC%BD%9C%EB%B0%B1-%EB%A9%94%EC%84%9C%EB%93%9C)
