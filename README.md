@@ -166,6 +166,8 @@ START:10/10 END: 10/15[Certificates](https://www.inflearn.com/certificate/453235
 START:10/16
 * ***Charset, text encoding***(ASCII, MS_949, UTF-8, korean charset history)[study note](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EA%B3%A0%EA%B8%89-2%ED%8E%B8-IO-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EB%A6%AC%ED%94%8C%EB%A0%89%EC%85%98-%EB%AC%B8%EC%9E%90-%EC%9D%B8%EC%BD%94%EB%94%A9)
 * ***Java Stream 1***(MemoryStream, System.out, FileStream, BufferedStream)[study note](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EA%B3%A0%EA%B8%89-2%ED%8E%B8-IO-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EB%A6%AC%ED%94%8C%EB%A0%89%EC%85%98-Stream-%EA%B8%B0%EB%B3%B81)
+* ***Java Stream 2***(Writer, Reader, Basic Stream, Sub Stream)[study note](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EA%B3%A0%EA%B8%89-2%ED%8E%B8-IO-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EB%A6%AC%ED%94%8C%EB%A0%89%EC%85%98-%EB%AC%B8%EC%9E%90-%EC%9D%B8%EC%BD%94%EB%94%A92)
+* ***DataStream, ObjectStream***(DataStream, ObjectStream, object serializer)[study note](https://velog.io/@aal2525/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EA%B3%A0%EA%B8%89-2%ED%8E%B8-IO-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EB%A6%AC%ED%94%8C%EB%A0%89%EC%85%98-DataStream-ObjectStream)
 ---
 ## [17. 실전! 스프링 데이터 JPA](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-JPA-%EC%8B%A4%EC%A0%84/dashboard)
 START:10/16 END: 10/21[Certificates](https://www.inflearn.com/certificate/453235-324474-13145500)
