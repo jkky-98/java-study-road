@@ -1,30 +1,35 @@
 package io.text;
 
 import java.io.*;
-import java.nio.charset.StandardCharsets;
 
-import static io.text.TextConst.*;
-import static java.nio.charset.StandardCharsets.*;
+import static io.text.TextConst.FILE_NAME;
+import static java.nio.charset.StandardCharsets.UTF_8;
 
-public class ReaderWriterMainV3 {
+public class ReaderWriterMainV4 {
+
+    private static final int BUFFER_SIZE = 8192;
+
     public static void main(String[] args) throws IOException {
-        String writeString = "ABC";
+        String writeString = "ABC\n가나다";
+        System.out.println("=== Write String ===");
         System.out.println("write String: " + writeString);
 
         FileWriter fw = new FileWriter(FILE_NAME, UTF_8);
-        fw.write(writeString);
-        fw.close();
+        BufferedWriter bw = new BufferedWriter(fw, BUFFER_SIZE);
+        bw.write(writeString);
+        bw.close();
 
-        FileReader fr = new FileReader(FILE_NAME);
+        // 읽기
         StringBuilder sb = new StringBuilder();
+        FileReader fr = new FileReader(FILE_NAME);
+        BufferedReader br = new BufferedReader(fr, BUFFER_SIZE);
 
-        int ch;
-
-        while((ch = fr.read()) != -1) {
-            sb.append((char) ch);
+        String line;
+        while ((line = br.readLine()) != null) {
+            sb.append(line).append("\n");
         }
 
-        fr.close();
+        br.close();
 
         String string = sb.toString();
         System.out.println("string = " + string);
