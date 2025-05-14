@@ -13,7 +13,6 @@ public class ClientV6 {
 
     public static void main(String[] args) throws IOException {
 
-
         try (  Socket socket = new Socket("localhost", PORT);
                DataOutputStream output = new DataOutputStream(socket.getOutputStream());
                DataInputStream input = new DataInputStream(socket.getInputStream());) {
